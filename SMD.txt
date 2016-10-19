@@ -1,0 +1,716 @@
+non_value;1;non_value;non_value;non_value;non_value;non_value;non_value;non_value;13;32;19
+#REF!;non_value;SI;SOR0045;11;315862 PLACA CABEZAL;24;*;*;0'94;non_value;non_value
+#REF!;non_value;SI;SOR0047;11;315863 PLACA BIPOLAR 50MM;16;*;*;0'85;non_value;non_value
+#REF!;non_value;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;*;*;1'13;non_value;non_value
+#REF!;non_value;NO;JVV0147;1;0932-034-0Cr02;350;L;*;3'58;non_value;non_value
+#REF!;non_value;NO;SOR0105;22;315744 CIRCUITO MASCARA SKINLIGHT;25;*;*;1'1;non_value;non_value
+#REF!;non_value;NO;CPS0002;1;PCB_980015_V01;30;L;*;1'64;non_value;non_value
+#REF!;non_value;SI;ADV0007;2;2.19 MONITOR 20150413;30;*;*;2;non_value;non_value
+#REF!;non_value;SI;MON0010_03;7;SAPPHIRE_LS_ON_v3_Modif.;115;*;*;11;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;2;non_value;non_value;non_value;non_value;non_value;non_value;non_value;9;40;31
+non_value;non_value;non_value;non_value;non_value;ACABAR MON0010_03;non_value;non_value;non_value;3;non_value;non_value
+#REF!;non_value;SI;MON0004_02;6;817PWDRV V3;30;*;L;6;non_value;non_value
+#REF!;non_value;NO;THI0009;1;SAMRT_ECU_V11;48;L;*;4'34;non_value;non_value
+#REF!;non_value;NO;SOR0050;14;315864 PCB CABEZAL BIPOLAR 30MM;35;*;*;1'13;non_value;non_value
+#REF!;1;NO;JVV0148;5;0589-029-0R01;206;L;*;1'5;non_value;non_value
+#REF!;2;NO;JVV0027;14;0949-002-0R01;285;*;L;1'29;non_value;INTENTAR FECHA 15/01 - 18/01
+#REF!;3;NO;JVV0036;20;0877-031-0R01 M4;20;*;*;1'08;non_value;INTENTAR FECHA 15/01 - 18/01
+#REF!;4;NO;JVV0031;11;0949-005-0R02 (5leds) M8;100;*;L;1'27;non_value;INTENTAR FECHA 15/01 - 18/01
+#REF!;5;NO;JVV0149;1;0949-005-0R02 M11.1;152;*;L;1'66;non_value;INTENTAR FECHA 15/01 - 18/01
+#REF!;6;NO;JVV0051;5;0949-005-0R02 M9;100;*;*;1'43;non_value;INTENTAR FECHA 15/01 - 18/01
+#REF!;non_value;SI;ADV0012;1;EP0024_WLS PROTOB;12;L;*;4'88;non_value;non_value
+#REF!;OF19;SI;PLA0001;2;SE-370-GI;1000;*;*;5'82;non_value;non_value
+#REF!;non_value;SI;PRE0008;24;6354A CRS-240;25;*;*;4'44;non_value;MONTAR JUNTO PRE0024
+#REF!;non_value;SI;PRE0024;6;6370B CRS-240;60;*;*;*;non_value;MONTAR JUNTO PRE0008
+#REF!;non_value;NO;JVV0019;10;0949-003-0R02 M1;100;*;*;1'56;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;3;non_value;non_value;non_value;non_value;non_value;non_value;non_value;6;40;34
+#REF!;non_value;NO;JVV0114;5;0949-016-0R02 M1;200;*;*;3'27;non_value;non_value
+#REF!;non_value;NO;MAZ0004_01;4;LSU 46-5V_PreProd_1.2;300;*;L;5'05;non_value;non_value
+#REF!;non_value;NO;ELE0021;1;A00338-D SMD;102;L;*;5'38;non_value;non_value
+#REF!;2;NO;JVV0150;1;0872-001-0R01;1000;L;*;2'5;non_value;non_value
+#REF!;1;SI;JVV0152;1;0877-010-0R03;91;L;*;2'86;non_value;PERFIL DE HORNO GENERICO.
+#REF!;3;NO;JVV0067;6;0917-004-0R02 M5;20;*;*;1'59;non_value;18/01/16 maña me entregan material  20/01/16  ME TRAEN HOY EL MATERIAL 21/01/16 RECIBIMOS CIRCUITO DE CIPSA DIRECTAMENTE
+#REF!;non_value;SI;ING0006_01;2;i154-01H4_PCA;6;*;L;6;non_value;non_value
+#REF!;1;SI;CES0004;7;SC160_CI376P;54;*;*;4'61;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;4;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;2;SI;CES0003_01;14;SC102_CI401;108;*;*;5'38;non_value;EL CAMBIO DE REVISION NO AFECTA A SMD
+#REF!;non_value;NO;ELE0020;2;E00750;23;*;*;4'15;non_value;non_value
+#REF!;non_value;NO;THI0010;1;PedalHacker_v12;45;L;*;1'71;non_value;non_value
+#REF!;non_value;SI;MON0005_01;2;DRV-HV200A-PW v2;12;*;L;4'08;non_value;non_value
+#REF!;non_value;SI;MON0006_01;2;DRV-HV200A-CTL v2;12;*;L;4'64;non_value;non_value
+#REF!;non_value;NO;JVV0051;6;0949-005-0R02 M11;100;*;*;1'43;non_value;non_value
+#REF!;non_value;NO;JVV0153;1;0877-042-0R02;50;L;*;1'53;non_value;SOLO PDTE. PANTALLA RECIBIREMOS 25/01/16 > SE TIENEN Q MARCAR FIDUCIALES DE IMAGEN PARA PODER SERIGRAFIAR YA QUE LOS DE PANEL QUEDAN TAPADOS POR LA SERIGRAFIA. CIPSA RECOGE PANTALLA. 26/01/16 CLIENTE ENTREGA PANTALLA 
+#REF!;OF20;SI;PLA0001;3'1;SE-370-GI;1000;*;*;5'82;non_value;RESPETAR FECHA ENTREGA
+#REF!;non_value;NO;JVV0103;4;0877-036-0R02;50;*;*;1'73;non_value;non_value
+#REF!;non_value;NO;JVV0121;3;0877-045-0R01 M1;100;*;*;1'3;non_value;non_value
+#REF!;non_value;NO;JVV0148;8;0589-029-0R01 M3;193;*;*;1'49;non_value;non_value
+#REF!;OF21;SI;PLA0001;3'2;SE-370-GI;2000;*;*;9'38;non_value;RESPETAR FECHA ENTREGA
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;5;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;JVV0078;5;0949-020-0R01 M6;44;*;*;1'88;non_value;MATERIAL 28/01
+#REF!;OF22;SI;PLA0001;4;SE-370-GI;2000;*;*;9'38;non_value;RESPETAR FECHA ENTREGA
+#REF!;OF23;SI;PLA0001;5'1;SE-370-GI;2000;*;*;9'38;non_value;RESPETAR FECHA ENTREGA
+#REF!;non_value;SI;PRE0051;2;NP-6670D CTS-240;105;*;*;4'75;non_value;non_value
+#REF!;non_value;NO;JVV0151;1;0949-036-0R01 M2;42;L;*;1'45;non_value;non_value
+#REF!;non_value;NO;JVV0151;2;0949-036-0R01 M1;70;*;*;*;non_value;non_value
+#REF!;non_value;SI;PRE0019;17;NP-6669D CTS-240;100;*;*;4'71;non_value;non_value
+#REF!;non_value;NO;JVV0045;7;0877-030-0R01 (20leds);50;*;*;1'19;non_value;non_value
+#REF!;non_value;NO;CPS0003;1;PCB_DRIVER_980013-V0-2;60;L;*;3'22;non_value;MATERIAL ERRONEO (20268) RECIBIMOS DE FARNELL 05/02
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;6;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;BOQ0005;2;PCB005;1000;*;L;7'83;non_value;URGENTE
+#REF!;non_value;NO;JVV0027;15;0949-002-0R01 M5;60;*;*;1'56;non_value;non_value
+#REF!;non_value;NO;JVV0103;5;0877-036-0R02 M1;50;*;*;1'73;non_value;non_value
+#REF!;non_value;NO;JVV0107;2;0589-020-0R03;192;*;*;1'69;non_value;non_value
+#REF!;non_value;SI;CIP0001;35;2748.0020 MYR PEQUEÑA;150;*;*;5'42;non_value;non_value
+#REF!;OF24;SI;PLA0001;5'2;SE-370-GI  ;1000;*;*;5'82;non_value;RESPETAR FECHA ENTREGA
+#REF!;non_value;NO;CSE0014_01;KIC1;ECGEXPERT02_02_C;1;*;L;3'12;non_value;non_value
+#REF!;non_value;SI;CSE0014_01;1;ECGEXPERT02_02_C;50;*;*;*;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+11/02/2016;*;*;*;*;THE LED DAY;*;*;*;*;*;SEMINARIO CIRCUITOS ALUMINIO ORGANIZADO POR FABRICANTE PLANCHA PCB. DEJAR MONTAJE FACIL YA QUE ALBERTO NO ESTARÁ ESTE DÍA.
+non_value;7;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;SI;PRE0034;5;6771A CRS-120;25;*;*;3'98;non_value;non_value
+#REF!;non_value;SI;PRE0001;11;0580-ESPECIAL ;60;*;*;5'14;non_value;FALTA UN MATERIAL SMD QUE EN PRINCIPIO 15/02 TRAEN. PUEDEN ESPERAR A UN PARCIAL DE 35u PARA 19/02
+#REF!;OF25;SI;PLA0001;5'3;SE-370-GI  ;2000;*;*;4'85;non_value;RESPETAR FECHA ENTREGA
+#REF!;non_value;NO;CSE0013_03;KIC1;ECGEXPERT02_01_B;1;L;*;8'02;non_value;non_value
+#REF!;non_value;SI;CSE0013_03;1;ECGEXPERT02_01_B;50;*;*;*;non_value;non_value
+#REF!;non_value;NO;WAV0022_02;4;WPF3_v3.2;30;*;L;5'04;non_value;non_value
+#REF!;non_value;NO;JVV0148;7;0589-029-0R01 ;264;*;*;1'64;non_value;non_value
+#REF!;non_value;NO;JVV0053;3;0949-013-0R01 M3;79;*;L;1'58;non_value;non_value
+#REF!;non_value;NO;ELE0022;1;E00730-B ;35;L;*;4'14;non_value;non_value
+#REF!;non_value;NO;JVV0119;2;0932-016-0Br02 M2;764;*;*;2'53;non_value;non_value
+#REF!;non_value;NO;JVV0154;1;0932-001-0R01 M3;520;*;L;1'85;non_value;non_value
+#REF!;non_value;NO;ELE0001_01;10;E00716-D;1050;*;*;16'74;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;8;non_value;non_value;non_value;non_value;non_value;non_value;non_value;11;40;29
+non_value;non_value;non_value;non_value;non_value;ACABAR ELE0001_01;non_value;non_value;non_value;11;non_value;non_value
+#REF!;non_value;NO;JVV0102;2;0949-034-0R01;100;*;*;1'55;non_value;non_value
+#REF!;non_value;NO;JVV0155;1;0949-004-0(Ar+Br)1 M4.4;50;*;L;1'93;non_value;non_value
+#REF!;non_value;SI;SOR0157;4;PLACA SIMMER NORA;20;*;*;4'75;non_value;non_value
+#REF!;non_value;SI;SOR0036;28;316030 CTR DEL DISPARO IPL;50;*;*;2'46;non_value;non_value
+#REF!;non_value;SI;SOR0036;29;316030 CTR DEL DISPARO IPL;50;*;*;*;non_value;non_value
+#REF!;non_value;SI;SOR0036;30;316030 CTR DEL DISPARO IPL;75;*;*;*;non_value;non_value
+#REF!;non_value;SI;SOR0036;31;316030 CTR DEL DISPARO IPL;50;*;*;*;non_value;non_value
+#REF!;non_value;SI;PDC0001;7;PDC30007;25;*;*;1'63;non_value;non_value
+#REF!;non_value;SI;SOR0101;17;315573 DISTRIBUCION POTENCIA PHOTO.;24;*;*;1'52;non_value;non_value
+#REF!;non_value;NO;JVV0036;21;0877-031-0R01;106;*;*;1'4;non_value;non_value
+#REF!;non_value;NO;JVV0118;3;0877-063-0R01 M1;588;*;*;2'2;non_value;non_value
+#REF!;OF26;SI;PLA0001;6'1;SE-370-GI   ;2000;*;*;9'67;non_value;1000 PARA 1-3-16 Y 1000 PARA 4/4/16
+#REF!;OF27;SI;PLA0001;6'2;SE-370-GI   ;2000;*;*;*;non_value;RESPETAR FECHA ENTREGA
+#REF!;non_value;SI;CES0007_01;6;SC420_CI410;69;*;*;10'54;non_value;non_value
+#REF!;non_value;NO;WAV0027;1;MONITEM BEACON;8;*;*;non_value;non_value;MANUAL> CONTROL HORAS
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 24-02 AL 4-03;9;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;SI;THI0011;1;FUELDRAINER_V12;54;L;*;2'63;non_value;non_value
+#REF!;non_value;SI;SOR0008;21;315661 C.I. SALIDAS SKINLIGHT;24;*;*;1'6;non_value;non_value
+#REF!;non_value;SI;SOR0018;23;900067 PLACA SALIDAS BODYTER PREMIUM;25;*;*;4'25;non_value;non_value
+#REF!;non_value;SI;PRE0008;25;6354A CRS-240;25;*;*;3'15;non_value;non_value
+#REF!;non_value;NO;CIM0002;1;980016 LED-V0;84;L;*;1'99;non_value;non_value
+#REF!;non_value;SI;WAV0028;1;MONITEM EXPANSION ETHERNET;8;*;*;non_value;non_value;MANUAL> CONTROL HORAS
+#REF!;non_value;SI;ING0005_01;2;i021-02H1_2.1.0;108;*;L;2'62;non_value;non_value
+#REF!;non_value;SI;CIP0010;5;9354.0010 METRON;3;*;*;*;non_value;MONTAJE MANUAL. NO LLEVA PANTALLA
+#REF!;non_value;SI;CIP0006;27;2748.0030 MYR GRANDE;60;*;*;3'52;non_value;non_value
+#REF!;non_value;SI;SOR0008;22;315661 C.I. SALIDAS SKINLIGHT;24;*;*;1'69;non_value;non_value
+#REF!;non_value;SI;SOR0008;23;315661 C.I. SALIDAS SKINLIGHT;24;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0009;10;0949-003-0R02 M2;50;*;*;1'45;non_value;non_value
+#REF!;non_value;SI;PRE0001;12;0580-ESPECIAL;95;*;*;6'03;non_value;non_value
+#REF!;non_value;SI;WAV0009;8;SMARTPOWER SMRF v2;54;*;*;5'41;non_value;non_value
+#REF!;non_value;NO;WAV0025;2;MAINBOARD v3;54;*;*;6'93;non_value;MAT.CLIENTE 29/02 >> 01/03 cliente nos notifica retraso en entrega de sus materiales y que recibiremos el MAT.CLIENTE 02/03 >> falta AD7927 >> cliente nos pide que lo pedidamos nosotras en farnell para recibirlo 03/03
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 07-03 AL 11-03;10;non_value;non_value;non_value;non_value;non_value;non_value;non_value;2;40;38
+non_value;non_value;non_value;non_value;non_value;ACABAR WAV0025;non_value;non_value;non_value;2;non_value;non_value
+#REF!;non_value;NO;JVV0059;9;0589-024-0AR02 M2;340;*;*;3'51;non_value;OJO COMBINACIONES DE BINES!!!!!!!!
+#REF!;non_value;NO;JVV0099;7;0589-024-0Br02;310;*;*;1'1;non_value;non_value
+#REF!;non_value;SI;SOR0154;4;316234 PLACA DISPARO NORA +;60;*;*;2'33;non_value;non_value
+#REF!;non_value;SI;SOR0019;14;315856 CONTROL BODYTER PREMIUM;25;*;*;3'17;non_value;non_value
+#REF!;non_value;NO;JVV0156;1;0949-016-0R02 M5;385;*;L;5'36;non_value;non_value
+#REF!;non_value;NO;JVV0103;6;0877-036-0R02 M2;150;*;*;1'7;non_value;non_value
+#REF!;non_value;NO;JVV0025;4;0949-001-0R01 M1;51;*;L;1'12;non_value;non_value
+#REF!;non_value;NO;JVV0013;8;0949-009-0R01;50;*;L;1'18;non_value;non_value
+#REF!;non_value;SI;SOR0007;14;316014 CONTROL GENERAL SKINLIGHT;25;*;*;5'05;non_value;non_value
+#REF!;non_value;SI;SOR0007;15;316014 CONTROL GENERAL SKINLIGHT;30;*;*;*;non_value;non_value
+#REF!;non_value;NO;IRE0001;1;CAMALEON_PROTOS;3;*;*;*;non_value;MONTAJE MANUAL CON PANTALLA PROTO. CONTROL HORAS
+#REF!;non_value;NO;JVV0019;11;0949-003-0R02 M1;40;*;*;1'87;non_value;non_value
+#REF!;non_value;NO;JVV0087;2;0949-004-0R01 M3;50;*;*;2'73;non_value;segun Jordi (Onaur) faltará 1 led en la última imagen... marcar placa
+#REF!;non_value;NO;JVV0103;7;0877-036-0R02 M1 ;100;*;*;1'47;non_value;non_value
+#REF!;non_value;SI;CIP0009;2;2748.0240 MYR DISPENSADOR EC500;30;L;*;1'61;non_value;RECIBIMOS PANTALLA CLIENTE 11/03/16
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 14-03 AL 18-03;11;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;CPS0002_01;2;980015_V1;756;*;L;4'63;non_value;non_value
+#REF!;non_value;NO;BOQ0006_01;2;PCB007 REV02;1000;*;L;4'67;non_value;non_value
+#REF!;non_value;SI;ALB0004;1;PCB DIFF2LVTTL;12;*;*;*;non_value;MONTAJE MANUAL (4H15M)
+#REF!;non_value;NO;JVV0102;3;0949-034-0R01;702;*;*;4'81;non_value;solicitado material max. 14/03 (admite entregas parciales)
+#REF!;non_value;NO;ELE0004;7;E00681-C;96;*;*;8'11;non_value;non_value
+#REF!;non_value;SI;PRE0054;1;9286.2 ESPECIAL;200;L;*;11'57;non_value;OJO!! CONTROL DE HORAS EXHAUSTIVO' ANOTAR EN ACTIVIDADES DE SAGE Y EN HOJA A PARTE TODOS LOS TIEMPOS DE MONTAJES.
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 21-03 AL 23-03;12;OJO SEMANA SANTA SOLO 3 DIAS;non_value;non_value;non_value;non_value;non_value;non_value;6;24;18
+#REF!;non_value;SI;CIP0002;3;PALETFILM-CSE;100;*;*;6;non_value;non_value
+#REF!;non_value;SI;SOR0095;10;316162 CONTROL HITACHI;26;*;*;4'47;non_value;non_value
+#REF!;non_value;SI;PRE0053;1;0720.2 ESPECIAL  (INCLUEYE PRE0054);200;L;*;7'69;non_value;OJO!! CONTROL DE HORAS EXHAUSTIVO' ANOTAR EN ACTIVIDADES DE SAGE Y EN HOJA A PARTE TODOS LOS TIEMPOS DE MONTAJES.
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 29-03 AL 01-04;13;OJO SOLO 4 DIAS;non_value;non_value;non_value;non_value;non_value;non_value;0;32;32
+#REF!;non_value;SI;PRE0006;9;6778A CRS-120;25;*;*;3'78;non_value;non_value
+#REF!;non_value;SI;CES0001;12;SC310_CI385;50;*;*;7'52;non_value;non_value
+#REF!;non_value;NO;JVV0119;3;0932-016-0Br02 M2;255;*;*;1'51;non_value;non_value
+#REF!;non_value;SI;JVV0027;16;0949-002-0R01 M5;105;*;*;1'61;non_value;non_value
+#REF!;non_value;NO;JVV0019;13;0949-003-0R02 M1 4500K;50;*;*;1'93;non_value;non_value
+#REF!;non_value;NO;JVV0019;14;0949-003-0R02 M2 (10leds);50;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0119;4;0932-016-0Br02 M2;255;*;*;1'51;non_value;non_value
+#REF!;non_value;NO;JVV0154;2;0932-001-0R01 M3;479;*;*;1'82;non_value;non_value
+#REF!;non_value;NO;JVV0023;5;0949-001-0R01 M5 (10leds);51;*;*;1'48;non_value;non_value
+#REF!;non_value;NO;JVV0025;5;0949-001-0R01 M4 (5leds);120;*;*;*;non_value;non_value
+#REF!;non_value;NO;SOR0105;23;CIRCUITO MASCARA SKINLIGHT;60;*;*;1'24;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 04-04 AL 08-04;14;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;OF28;SI;PLA0001;7'1;SE-370-GI   OF28;2000;*;*;5'4;non_value;1000 PARA 4/4/16 Y 1000 PARA 2/5/16
+#REF!;non_value;NO;ELE0018_02;3;E00740-B;525;*;L;5'85;non_value;CAMBIO DE REVISION DE CIRCUITO (AHORA ES REV.B PERO NO IMPLICA NINGUN CAMBIO EN SOLDADURA DE COMPONENTES SMD SEGUN CLIENTE) 29/03 cliente notifica que el cirtuito va con retraso y no lo recibirá hasta 05/04 
+#REF!;non_value;SI;PRE0001;13;0580-ESPECIAL;40;*;*;4'62;non_value;non_value
+#REF!;non_value;SI;PRE0030;9;6770A CRS-120;30;*;*;3'95;non_value;non_value
+#REF!;non_value;NO;JVV0097;4;0932-016-0Ar03;100;*;*;3'65;non_value;non_value
+#REF!;non_value;NO;JVV0159;1;0932-034-0Cr02 M1 SIN PWM;285;L;*;2'9;non_value;non_value
+#REF!;non_value;NO;JVV0158;1;0949-003-0R03 M3.1;200;L;*;2'6;non_value;LED 3000K OJO COMBINACION BINES
+#REF!;non_value;NO;JVV0158;2;0949-003-0R03 M4.1;200;*;*;*;non_value;LED 4000K OJO COMBINACION BINES
+#REF!;non_value;SI;PLA0002;6;SE-250-PA2-GI;2004;L;*;5'28;non_value;URGENTES
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 11-04 AL 15-04;15;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;JVV0016;14;0875-004-0R02 M2 ROJO;70;*;*;2'47;non_value;non_value
+#REF!;non_value;NO;JVV0017;16;0875-004-0R02 M1 AZUL;70;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0018;14;0875-004-0R02 SIN LEDS;40;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0156;2;0949-016-0R02 M5;215;*;*;3'44;non_value;non_value
+#REF!;non_value;NO;JVV0148;8;0589-029-0R01 M3;268;*;*;2'78;non_value;non_value
+#REF!;non_value;NO;JVV0157;1;0589-029-0R01 M11;54;L;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0160;1;1059-001-0R01 M1 3000K;956;L;*;5'59;non_value;PARCIAL DE 20/30 PLACAS MIERCOLES 13/04 X LA MNÑ // LAS PLACAS LAS RECIBIMOS LUNES 11/04 quedara pdte el diodo y unos cuantos leds que los recibiremos 12/04 antes de las 12h
+#REF!;non_value;NO;JVV0160;2;1059-001-0R01 M2 4000K;504;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0045;8;0877-030-0R01 M4;15;*;*;1'06;non_value;non_value
+#REF!;non_value;NO;JVV0107;3;0589-020-0R03 ;160;*;*;1'66;non_value;Material max. 14/04
+#REF!;non_value;SI;MIL0004_01;7;CONVERTIDOR DC-DC v2;15;non_value;non_value;non_value;non_value;MONTAJE MANUAL
+#REF!;non_value;NO;WAV0019_03;8;SONDA400 v6;36;*;*;7'4;non_value;non_value
+#REF!;non_value;SI;LEA0005;1;MainBoard;50;L;non_value;1'22;non_value;non_value
+#REF!;non_value;SI;PRE0005;19;6370A CRS-240;35;*;*;3'67;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 18-04 AL 22-04;16;non_value;non_value;non_value;non_value;non_value;non_value;non_value;15;40;25
+#REF!;non_value;SI;LEA0003;1;HandPieceBuffer;48;L;*;1'5;non_value;non_value
+#REF!;non_value;SI;LEA0002;1;CtrlBoard;48;L;*;1'94;non_value;PENDIENTE DE PANTALLA
+#REF!;non_value;SI;ING0010;1;i150-01H1-1'2'0;11;L;*;15;non_value;non_value
+#REF!;non_value;NO;WAV0020_01;9;SMP2 EXPANSION400v2;36;*;*;7'27;non_value;PROBAR NUEVA PANTALLA ELECTROPULIDO MARCO ALUMINIO PDTE. 50626 DIGIKEY 08/04 + 50548 RS 14/04
+#REF!;non_value;SI;BON0002;2;RASPBERRY UMBRELLA;108;*;*;3'53;non_value;non_value
+#REF!;non_value;SI;THI0010;2;PedalHacker_v12;30;*;*;1'21;non_value;non_value
+#REF!;non_value;NO;JVV0103;8;0877-036-0R02 M1  3000K;100;*;*;1'93;non_value;non_value
+#REF!;non_value;NO;JVV0103;9;0877-036-0R02 M2 4000K;100;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0156;3;0949-016-0R02 M5;200;*;*;4'4;non_value;non_value
+#REF!;non_value;NO;JVV0156;6;0949-016-0R02 M6;100;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0051;7;0949-005-0R02 M11;52;*;*;1'23;non_value;non_value
+#REF!;non_value;NO;JVV0119;5;0932-016-0Br02 M2;510;*;*;2'02;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 25-04 AL 29-04;17;non_value;non_value;non_value;non_value;non_value;non_value;non_value;15;40;25
+#REF!;non_value;NO;WAV0029;1;ONIRIS_SWITCH;30;L;*;2'47;non_value;MUY URGENTE ¡¡¡¡¡ 
+#REF!;non_value;SI;PRE0001;14;0580-ESPECIAL;25;*;*;4'24;non_value;non_value
+#REF!;non_value;SI;PRE0052_01;2;0748_C4 ESPECIAL CTS-240;205;*;*;5'55;non_value;non_value
+#REF!;non_value;NO;ELE0007;5;E00708-D;540;*;*;4'17;non_value;non_value
+#REF!;non_value;NO;THI0012;1;4IN_TCK_v13;48;L;non_value;3'85;non_value;non_value
+#REF!;non_value;NO;THI0013;1;4IN_FULL_v15;35;L;non_value;5'22;non_value;non_value
+#REF!;non_value;SI;CES0003_01;15;SC102_CI401E;261;*;*;12;non_value;ESTA ES MUCHO MAS URGENTE!! 
+#REF!;non_value;SI;CES0006_01;14;SC101_CI401E;141;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0161;1;0949-001-0R01 (5+5leds) 3000K;75;*;L;1'98;non_value;non_value
+#REF!;non_value;NO;JVV0161;2;0949-001-0R01 (5+5leds) 3000K;75;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0025;6;0949-001-0R01 (5 leds) M4;50;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0023;6;0949-001-0R01 M5 (10leds);44;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0150_01;2;0872-001-0R01;2000;*;L;3;non_value;non_value
+#REF!;non_value;NO;JVV0154;3;0932-001-0R01 M3;500;*;*;2'17;non_value;non_value
+#REF!;non_value;NO;JVV0154;4;0932-001-0R01 M3;500;*;*;*;non_value;non_value
+#REF!;non_value;SI;JVV0152;2;0877-010-0R03;104;*;*;2'86;non_value;non_value
+#REF!;non_value;NO;JVV0160;3;1059-001-0R01 M1 3000K;160;*;*;1'68;non_value;non_value
+#REF!;non_value;NO;JVV0160;4;1059-001-0R01 M2 4000K;56;*;*;*;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 02-05 AL 06-05;18;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;SI;MIL0003;10;MILASCONTROL;15;*;*;4'4;non_value;non_value
+#REF!;non_value;SI;MON0010_03;8;SAPPHIRE_LS_ON_V3;52;*;*;7'64;non_value;non_value
+#REF!;non_value;SI;CIP0012;2;5208.0050/60/70;510;L;*;1'06;non_value;CAD MANUAL ( ES UN SOLO LED INVERSO ) 
+#REF!;non_value;NO;JVV0159;2;0932-034-0Cr02 M1 SIN PWM;224;*;*;2'53;non_value;non_value
+#REF!;non_value;SI;MON0009_02;3;LADMOACC_ON;240;*;L;4'85;non_value;non_value
+#REF!;non_value;SI;MON0008_04;13;LADMOACC-TTL_ON;319;*;*;*;non_value;non_value
+#REF!;non_value;NO;JVV0156;4;0949-016-0R02 M5;200;*;*;3'27;non_value;non_value
+#REF!;non_value;SI;PLA0002;7;SE-250-PA2-GI;2004;*;*;5'28;non_value;non_value
+#REF!;non_value;NO;JVV0019;15;0949-003-0R02 (10leds) ;100;*;*;1'93;non_value;non_value
+#REF!;non_value;NO;JVV0051;8;0949-005-0R02  (10leds) M11 4000K;52;*;*;1'73;non_value;non_value
+#REF!;non_value;NO;JVV0163;1;0589-029-0r02_150K M1;232;L;*;2'89;non_value;non_value
+#REF!;non_value;NO;JVV0164;1;0589-029-0r02_20K M2;232;*;L;*;non_value;non_value
+#REF!;OF29;SI;PLA0001;7'2;SE-370-GI  ;2000;*;*;5'4;non_value;non_value
+#REF!;non_value;NO;JVV0107;4;0589-020-0R03  **;384;*;*;1'88;non_value;non_value
+#REF!;non_value;NO;ELE0015_01;3;E00728-A;150;*;*;5'44;non_value;non_value
+#REF!;non_value;NO;JVV0027;17;0949-002-0R01 M5 3000K;60;*;*;1'56;non_value;non_value
+#REF!;non_value;SI;SOR0036;32;CTR DEL DISPARO IPL;25;*;*;1'61;non_value;INCLUIDA EN SOR0154 - PARA RECAMBIOS
+#REF!;non_value;NO;JVV0058_01;6;0589-024-0Ar02 M3 MONOCOLOR 3000K;100;*;L;0'27;non_value;non_value
+#REF!;non_value;NO;JVV0059;10;0589-024-0Ar02 M2 RGB;40;*;*;2'5;non_value;URGENTE
+#REF!;non_value;NO;JVV0099;8;0589-024-0Br02;190;*;*;1'06;non_value;NECESITA ESTA QUE ES PAREJA CON LA URGENTE
+#REF!;non_value;NO;JVV0165;1;0949-032-0R01 M1 4000K;100;L;*;0'5;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 10-05 AL 13-05;19;OJO SOLO 4 DIAS;non_value;non_value;non_value;non_value;non_value;non_value;2;32;30
+#REF!;non_value;SI;SOR0154;5;316234 PLACA DISPARO NORA +;60;*;*;2'52;non_value;non_value
+#REF!;non_value;SI;SOR0154;8;316234 PLACA DISPARO NORA +;15;*;*;1'88;non_value;PARA RECAMBIOS
+#REF!;non_value;SI;JVV0033_01;8;0861-001-0R03 (CM4-CBM-03);40;*;*;5'81;non_value;non_value
+#REF!;OF118;SI;PLA0001;8'1;SE-370-GI  ;1000;*;*;2;non_value;non_value
+#REF!;non_value;NO;JVV0031;12;0949-005-0R02 (5leds) 4000K;52;*;*;1'64;non_value;non_value
+#REF!;non_value;NO;JVV0051;9;0949-005-0R02 M9 3000K;52;*;*;1'73;non_value;non_value
+#REF!;non_value;NO;ELE0001_01;11;E00716-D_SMD;1050;*;*;15'1;non_value;ENTREGAN MATERIAL 10'11/05/16 ----- CONTROL HORAS DE TIEMPO VERIFICACION QUINS Y EMBALAJE
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 17-05 AL 20-05;20;OJO SOLO 4 DIAS;non_value;non_value;non_value;non_value;non_value;non_value;0;32;32
+#REF!;non_value;SI;CIP0021;12;4829.0010 TECLADO LLENARI CASTELLANO;200;L;*;6'13;non_value;non_value
+#REF!;non_value;SI;THI0006;3;POWER BOX V2.0;672;*;*;7'95;non_value;non_value
+#REF!;non_value;NO;JVV0156;5;0949-016-0R02 M5 4000K;200;*;*;3'27;non_value;non_value
+#REF!;non_value;SI;PRE0001;15;0580-ESPECIAL;50;*;*;4'88;non_value;non_value
+#REF!;non_value;SI;IRE0002;1;VLC RECEIVER;3;*;*;non_value;non_value;MONTAJE MANUAL
+#REF!;OF119;SI;PLA0001;8'2;SE-370-GI  ;3000;*;*;5'8;non_value;120u ENTREGA 30/05 RESTO (2880u) ENTREGA 27/06. 
+#REF!;non_value;SI;MON0008_04;14;LADMOACC-TTL_ON;1200;*;*;5'83;non_value;non_value
+#REF!;non_value;SI;SOR0019;15;315856 CONTROL BODYTER PREMIUM;30;*;*;3'34;non_value;non_value
+#REF!;non_value;SI;SOR0008;24;315661 C.I. SALIDAS SKINLIGHT;24;*;*;1'6;non_value;non_value
+#REF!;non_value;NO;JVV0169;1;1059-002-0R02 (16 leds NVSA219 Nichia) M5 LED AMBAR;40;L;*;non_value;non_value;non_value
+#REF!;non_value;NO;JVV0170;1;1059-003-0R01 (16 leds NVSA219 Nichia) M1 LED AMBAR;172;*;L;1'45;non_value;ADAPTACION CAD DE JVV0160 Y USAR MISMO PERFIL HORNO
+#REF!;non_value;NO;JVV0010;14;0639-002-0R02 TFMTLR2;200;*;*;7'1;non_value;CONTROL HORAS P&P
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 23//05 AL 27/05;21;non_value;non_value;non_value;non_value;non_value;non_value;non_value;5;40;35
+#REF!;non_value;SI;SOR0116;22;315482 IMPRES-240;25;*;L;2'63;non_value;non_value
+#REF!;non_value;NO;JVV0162;1;0949-025-0R01 M3 4000K;52;*;L;2'11;non_value;non_value
+#REF!;non_value;NO;JVV0053;4;0949-013-0R01 M3 4000K;80;*;*;0'58;non_value;non_value
+#REF!;non_value;NO;JVV0107;5;0589-020-0R03;192;*;*;0'22;non_value;non_value
+#REF!;non_value;SI;SOR0023;19;315878 C.I.COMUNICACION IRDA;45;*;*;0'57;non_value;non_value
+#REF!;non_value;SI;SOR0157;5;PLACA SIMMER NORA;20;*;*;5;non_value;non_value
+#REF!;non_value;SI;SOR0018_01;24;900067 PLACA SALIDAS BODYTER PREMIUM;25;*;*;1'9;non_value;non_value
+#REF!;non_value;NO;JVV0165_01;2;0949-032-0R01;100;*;*;0'48;non_value;non_value
+#REF!;non_value;NO;JVV0121;4;0877-045-0R01 (9leds);50;*;*;0'26;non_value;non_value
+#REF!;non_value;NO;JVV0023;7;0949-001-0R01 (10leds);51;*;*;0'28;non_value;non_value
+#REF!;non_value;NO;JVV0171;1;1059-002-0R02 (8+8 leds XPGBWT) M1.1;300;*;L;2'87;non_value;non_value
+#REF!;non_value;NO;JVV0172;1;1059-002-0R02 (16+16 leds XPGBWT) M2.1;200;*;L;2'98;non_value;non_value
+#REF!;non_value;SI;SOR0022;25;315879 C.I.MANDO IRDA;27;*;*;0'79;non_value;non_value
+#REF!;non_value;NO;JVV0027;18;0949-002-0R01 (3led) M5;60;*;*;0'58;non_value;non_value
+#REF!;non_value;NO;JVV0167;1;1059-002-0R02 (16 leds XPGBWT) M3;400;*;L;3'82;non_value;non_value
+#REF!;non_value;NO;JVV0168;1;1059-002-0R02 (32 leds XPGBWT) M4;100;*;L;1'49;non_value;non_value
+#REF!;non_value;NO;JVV0154;5;0932-001-0R01 M3;316;*;*;0'75;non_value;non_value
+#REF!;non_value;SI;PRE0026;12;6369A CRS-240;25;*;*;0'51;non_value;non_value
+#REF!;non_value;SI;PRE0030;10;6770A CRS-120;30;*;*;0'75;non_value;non_value
+#REF!;non_value;NO;JVV0162;2;0949-025-0R01 (16leds) M3;98;*;*;1'25;non_value;non_value
+#REF!;non_value;NO;JVV0174;1;0949-034-0R01 M1.1;24;*;L;0'65;non_value;non_value
+#REF!;non_value;NO;JVV0174;2;0949-034-0R01 M1.2;30;*;*;0'68;non_value;non_value
+#REF!;non_value;NO;THI0014;1;PILA_9V_v1;360;P;*;0'68;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 30//05 AL 03/06;22;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;JVV0159;3;0932-034-0Cr02 M1 SIN PWM;1000;*;*;7'63;non_value;non_value
+#REF!;non_value;NO;JVV0016;15;0875-004-0R02 M2 ROJO;40;*;*;0'75;non_value;non_value
+#REF!;non_value;NO;JVV0017;17;0875-004-0R02 M1 AZUL;40;*;*;0'75;non_value;non_value
+#REF!;non_value;NO;JVV0018;15;0875-004-0R02 SIN LEDS;40;*;*;0'61;non_value;non_value
+#REF!;non_value;NO;JVV0152_01;3;0877-010-0R03_SMD;190;*;L;2'23;non_value;non_value
+#REF!;non_value;NO;ELE0016_01;3;E00725-B SMD;150;*;L;non_value;non_value;non_value
+#REF!;non_value;NO;JVV0037;12;0877-031-0R01 M3 28leds;52;*;*;0'35;non_value;non_value
+#REF!;non_value;NO;JVV0035;9;0877-031-0R01 M6;12;*;*;0'57;non_value;non_value
+#REF!;non_value;SI;CES0011;1;TA120_CI417E;50;L;*;3'22;non_value;CONTROL HORAS // INTENTAR ADELANTAR FECHA ENTREGA
+#REF!;non_value;NO;WAV0022_02;5;WPF3 v3.2;27;*;*;4'23;non_value;non_value
+#REF!;non_value;NO;WAV0023_01;4;WPF8 v3.2;50;*;*;10'17;non_value;non_value
+#REF!;non_value;NO;WAV0030;1;WPF18 v3.2 FAST;25;*;L;4'18;non_value;non_value
+#REF!;non_value;SI;MON0004_03;7;PWDRV_v3;30;*;*;1'98;non_value;prioridad 2
+#REF!;non_value;SI;MON0014;1;TELTHV-ON rev.02;60;*;L;1'22;non_value;prioridad 1
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 06//06 AL 10/06;23;non_value;non_value;non_value;non_value;non_value;non_value;non_value;5;40;35
+#REF!;non_value;NO;JVV0103;10;0877-036-0R02 12leds;100;*;*;0'33;non_value;non_value
+#REF!;non_value;NO;JVV0156;7;0949-016-0R02 M5;200;*;*;2'44;non_value;non_value
+#REF!;non_value;NO;JVV0097_01;5;0932-016-0Ar03 SMD;100;*;L;2'39;non_value;non_value
+#REF!;non_value;SI;JVV0103;11;0877-036-0R02 M1 12leds;100;*;*;0'56;non_value;non_value
+#REF!;non_value;SI;MON0013;4;PMADRV_v2;30;*;*;5;non_value;prioridad 3
+#REF!;non_value;SI;SOR0007;16;316014 CONTROL GENERAL SKINLIGHT;25;*;*;3'93;non_value;non_value
+#REF!;non_value;NO;ELE0023;1;E00760-A;525;L;*;4'83;non_value;non_value
+#REF!;non_value;SI;BOL0001;1;PCB_RULETA_LED;20;L;*;1'05;non_value;INTENTAR ADELANTAR FECHA ENTREGA. PORTE A MURCIA
+#REF!;non_value;SI;PRE0056;1;0720.3_C ESPECIAL;30;L;*;0'68;non_value;HAY ALIMENTADORES COMUNES TAMBIEN CON PRE0057
+#REF!;non_value;SI;PRE0059;1;0747_C ESPECIAL;30;*;L;0'69;non_value;HAY ALIMENTADORES COMUNES TAMBIEN CON PRE0057
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 13//06 AL 17/06;24;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;SI;PRE0057;1;9286.3_2 ESPECIAL;30;*;L;0'92;non_value;INCLUIDA EN PRE0056 NP-0720.3 LOTE 1 // HAY ALIMENTADORES COMUNES CON PRE0056 y PRE0059
+#REF!;non_value;SI;PRE0057;2;9286.3_2 ESPECIAL;30;*;*;0'92;non_value;INCLUIDA EN PRE0059 NP-0747 LOTE 1 // HAY ALIMENTADORES COMUNES CON PRE0056 y PRE0059
+#REF!;non_value;SI;NOV0001;9;MLS-LDM-DRV;50;*;*;2'03;non_value;urgente¡¡¡
+#REF!;non_value;NO;WAV0020_01;10;SMP2 EXPANSION400v2;36;*;*;3'66;non_value;Probar pantalla electropulido
+#REF!;non_value;SI;SOR0116_01;23;315482 IMPRES-240;25;*;L;2'63;non_value;non_value
+#REF!;non_value;SI;CES0012;1;CI-419A;5;L;*;1'2;non_value;non_value
+#REF!;non_value;SI;PLA0001;8'3;SE-370-GI;1000;*;*;3'61;non_value;non_value
+#REF!;non_value;SI;PLA0001;9;SE-370-GI;160;*;*;*;non_value;non_value
+#REF!;non_value;SI;PRE0009;15;6657D CTS-240;25;*;*;0'57;non_value;non_value
+#REF!;non_value;SI;PRE0065;2;6357A CRS-240;5;*;*;*;non_value;non_value
+#REF!;non_value;NO;PRE0064;1;NP-6675D_I+D CTS-240;2;*;L;*;non_value;non_value
+#REF!;non_value;SI;MON0010_03;9;PCB_SAPPHIRE_LS_ON_V3;300;*;L;19'1;non_value;PCB's 16/06 (GASTAR 10113 HASTA ACABAR STOCK Y CONTINUAR CON 11893)
+#REF!;non_value;NO;IRE0003;1;SPECTROMETER;4;*;*;*;non_value;MONTAJE MANUAL
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 20//06 AL 23/06;25;OJO SOLO 4 DIAS;non_value;non_value;non_value;non_value;non_value;non_value;0;32;32
+#REF!;non_value;NO;WAV0031;1;PCB SONDA 400K-MAST_V5;2;L;*;1'22;non_value;non_value
+#REF!;non_value;NO;BOQ0001;18;PL01;250;*;*;1'19;non_value;non_value
+#REF!;non_value;NO;JVV0045;9;0877-030-0R01 20leds;75;*;*;0'61;non_value;non_value
+#REF!;non_value;NO;ELE0005;8;E00680-D;102;*;*;4'38;non_value;non_value
+#REF!;*;SI;MIL0004_01;8;CONVERTIDOR DC-DC v2;15;*;*;0'46;non_value;INCLUIDA EN MIL0002_01 // MONTAJE MANUAL
+#REF!;non_value;SI;SOR0101;18;315573 DISTRIBUCION POTENCIA PHOTOCARE;24;*;*;1'52;non_value;non_value
+#REF!;non_value;SI;PLA0001;9.2;SE-370-GI;2840;*;*;9'29;non_value;non_value
+#REF!;OF267;SI;PLA0001;10;SE-370-GI;1200;*;*;*;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 27//06 AL 01/07;26;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;SI;THI0011_01;2;FUELDRAINER_V12;72;*;L;2'72;non_value;non_value
+#REF!;non_value;NO;JVV0059;11;0589-024-0RAR02 M2 RGB;30;*;*;2'5;non_value;non_value
+#REF!;non_value;NO;ELE0024;1;E00759-A;1035;L;*;5'83;non_value;non_value
+#REF!;non_value;NO;JVV0100;2;0949-021-0R02 42leds;10;*;*;0'64;non_value;SERIE URGENTE // PCB's GROSOR PUNTUAL 1mm HACER PERFIL HORNO EN PANEL CON BIN:KS-6J-L1
+#REF!;non_value;NO;BOQ0001;19;PL01 Circuito Aluminio;1000;*;*;4'74;non_value;non_value
+#REF!;non_value;NO;ELE0010_01;4;E00732-C;510;*;L;2'52;non_value;non_value
+#REF!;*;SI;PRE0053_01;2;0720.2 ESPECIAL G-8.3;200;*;L;4'47;non_value;non_value
+#REF!;*;SI;PRE0054_01;2;9286.2_7 ESPECIAL;200;*;L;6'12;non_value;INCLUIDA EN PRE0053_01
+#REF!;*;SI;PRE0001;16;0580-ESPECIAL;30;*;*;0'9;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 04/07 AL 08/07;27;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;*;SI;PRE0039;6;0581 ESPECIAL;50;*;*;1'53;non_value;non_value
+#REF!;*;SI;PRE0035;21;6780A CRS-120;30;*;*;0'75;non_value;non_value
+#REF!;*;SI;MIL0003;11;MILASCONTROL;15;*;*;0'58;non_value;non_value
+#REF!;non_value;SI;ELE0001_01;12;E00716-D SMD;1050;*;*;15'1;non_value;#NAME?
+#REF!;non_value;SI;SOR0154;6;316234 PLACA DISPARO NORA +;60;*;*;2'52;non_value;non_value
+#REF!;non_value;SI;PRE0002;8;0665 ESPECIAL;15;*;*;0'22;non_value;non_value
+#REF!;non_value;SI;PRE0016;8;9212 ESPECIAL ;15;*;*;0'74;non_value;INCLUIDA EN PRE0002
+#REF!;non_value;NO;CES0005_01;5;SC260_CI385I;50;*;*;4'74;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 11/07 AL 15/07;28;non_value;non_value;non_value;non_value;non_value;non_value;non_value;5;40;35
+#REF!;2;SI;PRE0003_03;20;0690 ESPECIAL;50;*;*;3'63;non_value;non_value
+#REF!;3;SI;PRE0060;1;6669HD CTS-240 ALARMAS;40;L;*;0'96;non_value;non_value
+#REF!;4;SI;PRE0055;1;6674HD CTS-240 ALARMAS;25;L;*;0'58;non_value;non_value
+#REF!;non_value;SI;SOR0157;6;PLACA SIMMER NORA;20;*;*;5;non_value;non_value
+#REF!;non_value;NO;CES0004;8;SC160_CI376P;50;*;*;1'63;non_value;non_value
+#REF!;non_value;SI;CES0002;12;DC112_CI397H;100;*;*;3'23;non_value;non_value
+#REF!;non_value;SI;SOR0157;8;PLACA SIMMER NORA +;10;*;*;0'89;non_value;non_value
+#REF!;non_value;SI;ADV0013;1;3.3.63_FIREFLY;250;*;*;4'4;non_value;non_value
+#REF!;non_value;SI;CSE0027;3;FWIRET_01A;108;*;*;1'24;non_value;MANUAL
+#REF!;6;SI;PRE0005;20;6370A CRS-240;30;*;*;0'6;non_value;non_value
+#REF!;non_value;SI;CSE0008;3;FWIRET_02A;108;*;*;1'07;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 18/07 AL 22/07;29;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;5;SI;PRE0058;1;6888V031 CTS-120 ALARMAS;25;L;*;0'68;non_value;non_value
+#REF!;1;SI;PRE0061;1;NP-0644 PLANO S VERSION 25;55;L;*;3'75;non_value;non_value
+#REF!;1;SI;PRE0062;1;9195_ESPECIAL;55;L;*;1'31;non_value;INCLUIDA EN PRE0061
+#REF!;non_value;SI;SOR0095;11;316162 CONTROL HITACHI;26;*;*;4'47;non_value;non_value
+#REF!;non_value;NO;WAV0032;1;WPHv02(WPH30);6;L;*;1'58;non_value;non_value
+#REF!;non_value;SI;WAV0017;5;USB-OPTICAL v2;96;*;*;1'03;non_value;non_value
+#REF!;2;NO;JVV0162;3;0949-025-0r01 M3;100;*;*;1'28;non_value;SERIE URGENTE
+#REF!;1;NO;JVV0059;12;0589-024-0Ar02 M2 RGB;333;*;*;0'91;non_value;SERIE URGENTE
+#REF!;3;NO;JVV0176;1;0877-036-0r02 M2.4 (6+6leds);100;*;L;0'56;non_value;SERIE URGENTE
+#REF!;non_value;NO;GAI0001;1;INFINITY_LINE_540 (32leds) Rev00;7;L;*;0'54;non_value;non_value
+#REF!;non_value;NO;JVV0097_01;6;PCB 0932-016-0Ar03_SMD;100;*;*;2'39;non_value;non_value
+#REF!;8;SI;PRE0049;4;0613 ESPECIAL;10;*;*;0'68;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 25/07 AL 29/07;30;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;7;SI;PRE0056_01;2;0720.3_D2 ESPECIAL;400;*;L;9'09;non_value;non_value
+#REF!;non_value;SI;PLA0002;8;SE250PA-GI;1176;*;*;2'94;non_value;non_value
+#REF!;7;SI;PRE0057;3;9286.3_2 ESPECIAL;400;*;*;12'24;non_value;INCLUIDA EN PRE0056_01 LOTE 2
+#REF!;non_value;NO;ELE0023;2;E00760-A;525;*;*;4'83;non_value;non_value
+#REF!;non_value;SI;HID0003;1;DEMETER-4H v1.2 EXPANSION;300;L;*;5'2;non_value;non_value
+#REF!;non_value;NO;ELE0007;6;E00708-D SMD;540;*;*;3'04;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 01/08 AL 05/08;31;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;24;24
+#REF!;non_value;NO;JVV0177;1;0100-004-0R04+0100-007-0R03+0100-009-0BR02;244;L;*;2'01;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;32;VACACIONES VERANO;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;33;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;34;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 29/08 AL 02/09;35;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;3;SI;ELE0001_01;13;E00716-D_SMD;999;*;*;14'37;non_value;SE MONTA EL CONVENCIONAL COMO ELE0009' si no podemos montar THT antes de vacaciones esperar al inicio del SMD para la vuelta.
+#REF!;1;NO;ELE0025;1;E00764-A SMD;30;L;*;1'23;non_value;SOLO PDTE.PANTALLA 30/08
+#REF!;2;NO;ELE0026;1;E00765-A SMD;27;L;*;0'85;non_value;SOLO PDTE.PANTALLA 30/08
+#REF!;non_value;SI;SOR0093;35;9714 BELEX-08;25;*;*;0'86;non_value;non_value
+#REF!;non_value;SI;IBE0002_01;13;XAAR v.5;48;*;*;2'25;non_value;non_value
+#REF!;non_value;SI;IBE0003_01;11;INTER_T3 v2.1;50;*;*;1'33;non_value;non_value
+#REF!;non_value;SI;MON0001_01;34;LADMOATA-5_ON;160;*;L;1'38;non_value;non_value
+#REF!;non_value;SI;ING0006_01;2;i154-01H4-1'1'0PCA;5;*;*;5'53;non_value;non_value
+#REF!;non_value;SI;IBE0001_02;10;ALARMAS v1.1;50;*;*;0'84;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 06/09 AL 09/09;36;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;32;32
+#REF!;non_value;SI;THI0014;2;PILA_9V_v1_SMD;360;*;*;0'68;non_value;non_value
+#REF!;non_value;SI;PRE0003_03;21;0690 ESPECIAL;50;*;*;3'63;non_value;non_value
+#REF!;non_value;SI;THI0016;1;POWERLATCH V1.1;50;L;*;1'12;non_value;non_value
+#REF!;non_value;SI;THI0010;3;PEDALHACKER_v12;120;*;*;1'33;non_value;CONVENCIONAL SOLO DESPANELAR
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 12/09 AL 16/09;37;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;ELE0027;1;E00766-A;28;L;*;0'95;non_value;non_value
+#REF!;non_value;SI;PRE0056_01;3;0720.3_E2 ESPECIAL;300;*;*;6'82;non_value;non_value
+#REF!;non_value;SI;PRE0057;4;9286.3_2 ESPECIAL;300;*;*;9'18;non_value;non_value
+#REF!;non_value;SI;ING0007_01;2;i154-01H2-1'0'0B;5;*;L;5'81;non_value;non_value
+#REF!;non_value;SI;ING0010;2;i150-01H1-1.2.0;52;*;*;9'12;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 19/09 AL 23/09;38;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;NO;CIM0004;1;980014_V0_5;120;L;*;0'55;non_value;non_value
+#REF!;non_value;SI;CPS0004;1;980017_V0_4;110;L;non_value;1'34;non_value;non_value
+#REF!;non_value;SI;ING0005_02;3;i021-02H1_2.1.1;135;*;L;2'91;non_value;non_value
+#REF!;non_value;SI;LEA0003;2;HANDPIECEBUFFER;48;*;*;0'95;non_value;non_value
+#REF!;non_value;SI;LEA0002;2;CTRLBOARD;48;*;*;0'8;non_value;non_value
+#REF!;non_value;SI;PLA0001;11;SE-370-GI;2500;*;*;6'47;non_value;non_value
+#REF!;non_value;SI;CIP0001;36;2748.0010 MYR PEQUEÑA;70;*;*;2'06;non_value;non_value
+20/10/2016;non_value;SI;PRE0056_01;4;0720.3_E2 ESPECIAL;500;*;*;11'36;non_value;non_value
+20/10/2016;non_value;SI;PRE0057;5;9286.3_2 ESPECIAL;500;*;*;15'3;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 26/09 AL 30/09;39;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+#REF!;non_value;SI;THI0011_02;3;FUELDRAINER_v12;153;*;*;1'67;non_value;non_value
+01/11/2016;non_value;SI;SOR0154;7;316234 PLACA DISPARO NORA +;60;*;*;1'87;non_value;non_value
+01/11/2016;non_value;SI;SOR0157;7;PLACA SIMMER NORA;20;*;L;2'12;non_value;non_value
+20/10/2016;non_value;SI;PRE0001;17;0580 ESPECIAL M-14;25;*;*;0'75;non_value;non_value
+#REF!;non_value;SI;ISE0002;1;CAMR0030_RA;16;L;*;1'81;non_value;OJO PERFIL HORNO (DEL PANEL DE 1u)                                                                          THT SOLO DESPANELAR
+#REF!;non_value;SI;SOR0095;12;316162 Control Hitachi;26;*;*;1'46;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 03/10 AL 07/10;40;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+20/10/2016;non_value;SI;PRE0019;18;6669D CTS-240;80;*;*;2'02;non_value;MONTAR JUNTO PRE0026
+20/10/2016;non_value;SI;PRE0026;13;6369A CRS-240;20;*;*;*;non_value;MONTAR JUNTO PRE0019
+#REF!;1;NO;WAV0030;2;WPF18 v3.2 FAST;40;*;*;3'95;non_value;non_value
+#REF!;2;NO;WAV0024_01;5;WPF18 v3.2 ;15;*;*;1'48;non_value;non_value
+#REF!;3;NO;WAV0022_02;6;WPF3_v3.2;25;*;*;1'81;non_value;non_value
+#REF!;4;NO;WAV0023_01;5;WPF8_v3.2;50;*;*;7'64;non_value;non_value
+#REF!;non_value;SI;THI0005_01;2;STEERINGWHEEL BOARD V1.2b;48;*;*;2'03;non_value;THT SOLO DESPANELAR
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 10/10 AL 14/10;41;OJO MIERCOLES 12/10 FESTIVO;non_value;non_value;non_value;non_value;non_value;non_value;0;32;32
+02/11/2016;non_value;SI;SOR0007;17;316014 CONTROL GENERAL SKINLIGHT;25;*;*;1'04;non_value;non_value
+19/10/2016;non_value;NO;ELE0023;3;E00760-A;525;*;*;4'83;non_value;non_value
+21/10/2016;non_value;SI;BON0002_01;3;RASPBERRY UMBRELLA;150;L;*;2'12;non_value;non_value
+21/10/2016;non_value;NO;WAV0031_01;2;SONDA400K-MAST_V8;26;L;*;3'66;non_value;non_value
+21/10/2016;non_value;NO;WAV0034;1;SONDA400K-MAST_V7 CHINA;14;*;L;1'97;non_value;non_value
+20/10/2016;non_value;SI;PRE0004_01;3;0696_H004 ESPECIAL;25;L;*;0'7;non_value;non_value
+20/10/2016;non_value;SI;PRE0015_01;4;9246_B1 ESPECIAL;25;L;*;0'93;non_value;non_value
+24/10/2016;non_value;SI;PRE0052_01;3;0748 ESPECIAL CTS-240 PLANO C VER. 4;205;*;*;3'66;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL17/10 AL 21/10;42;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+21/10/2016;non_value;SI;THI0017;1;RELE IGNCUT_V2;150;L;*;0'7;non_value;non_value
+21/10/2016;non_value;SI;WAV0020_01;11;SMP2 EXPANSION400v2;33;*;*;3'66;non_value;non_value
+24/10/2016;non_value;SI;MON0012_01;2;DAE-20050-CTL02-ON_V2;20;L;*;0'98;non_value;non_value
+24/10/2016;non_value;SI;ALB0005;1;PSB_V2.0;12;L;*;1'26;non_value;non_value
+24/10/2016;non_value;SI;ALB0009;1;CACB_V3.0;9;L;*;1'12;non_value;non_value
+24/10/2016;non_value;SI;ALB0010;1;CACB_V3.0_LV;3;*;P;0'56;non_value;non_value
+24/10/2016;non_value;SI;ALB0007;1;FEB_V2.0+SBD26HD_V2.0;12;P;*;1'9;non_value;non_value
+24/10/2016;non_value;SI;ALB0008;1;ALBA MODILEC_V40;50;P;*;1'25;non_value;non_value
+RESERVA 20/10;non_value;SI;CSE;1;PCB VISUALITZADOR;5;P;*;non_value;non_value;URGENTE' LLEGAN PCB's JUEVES 20/10 Y SE DEBE ENTREGAR EL MISMO DIA
+03/11/2016;non_value;SI;PRE0003_03;22;0690-ESPECIAL G9;25;*;*;1'81;non_value;PDTE. MATERIAL CLIENTE
+27/10/2016;non_value;SI;ADV0007_01;3;3.3.86 Monitor;35;*;L;0'87;non_value;SOLO PDTE.PANTALLA
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 24/10 AL 28/10;43;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+04/11/2016;non_value;SI;THI0016_01;2;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
+02/11/2016;non_value;SI;SOR0101;19;315573 Distribucion potencia PHOTOCARE;24;*;*;0'57;non_value;ESTA LISTA PERO HAY PROBLEMAS CON RELÉ THT' SORISA ESTA BUSCANDO ALTERNATIVAS...
+18/11/2016;non_value;SI;PRE0035;22;6780A CRS-120;50;*;*;1'25;non_value;non_value
+11/11/2016;non_value;SI;PRE0040;11;6779A CRS-120;25;*;*;0'63;non_value;non_value
+11/11/2016;non_value;SI;PRE0029;6;0700.2 PLANO E VERSION 3 ESPECIAL;105;*;*;4'33;non_value;non_value
+28/10/2016;non_value;SI;ELE0004;8;E00681-C;100;*;P;4'46;non_value;TENEMOS Q AVISAR PARA QUE NOS MANDEN MATERIAL ESPECIAL QUE TIENEN Q ENTREGAR 72h MAXIMO ANTES DE SU MONTAJE
+28/10/2016;non_value;SI;CES0007_01;7;SC420_CI410;69;*;*;4'57;non_value;CI LLEGA DIRECTO LAB 20/10
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 2/11 AL 4/11;44;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;24;24
+24/11/2016;non_value;SI;PRE0039;7;0581 ESPECIAL;25;*;*;0'77;non_value;non_value
+08/11/2016;non_value;SI;ALB0006;1;FMC_ADC_ISO_V3.0;12;P;*;1'04;non_value;non_value
+22/11/2016;non_value;SI;PRE0019;19;6669D CTS-240  E0;100;*;*;2'02;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 07/11 AL 11/11;45;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+21/11/2016;non_value;SI;CES0003_01;16;SC102_CI401;200;*;*;4'44;non_value;non_value
+23/11/2016;non_value;SI;PRE0003_03;23;0690-ESPECIAL G9;25;*;*;1'81;non_value;non_value
+25/11/2016;non_value;SI;PRE0040;12;6779A CRS-120;25;*;*;0'63;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 14/11 AL 18/11;46;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 21/11 AL 25/11;47;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+02/12/2016;non_value;SI;THI0016_01;3;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 28/11 AL 02/12;48;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+7/12 Y 9/12;49;OJO!! SOLO 2 DIAS LABORABLES (MIERCOLES Y VIERNES);non_value;non_value;non_value;non_value;non_value;non_value;0;16;16
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 12/12 AL 16/12;50;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+16/12/2016;non_value;SI;THI0002_01;2;DISPLAY 52MM;460;*;P;5'15;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 19/12 AL 23/12;51;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;38;38
+16/01/2017;non_value;SI;THI0016_01;4;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 26/12 AL 30/12;52;VACACIONES NAVIDAD;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+2017;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 02/01 AL 05/01;1;OJO VIERNES 06/01 FESTIVO;non_value;non_value;non_value;non_value;non_value;non_value;0;32;32
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 09/01 AL 13/01;2;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 16/01 AL 20/01;3;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+10/02/2017;non_value;SI;THI0016;5;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 23/01 AL 27/01;4;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+DEL 30/01 AL 03/02;5;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
+non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
