@@ -1,16 +1,12 @@
 package model;
 
-import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 import com.opencsv.CSVReader;
-import com.opencsv.CSVWriter;
 
 import pojo.Articulo;
 import pojo.Compras;
@@ -24,7 +20,7 @@ public class CSVLoader {
 	private List <Convencional> convList;
 	private List<SMD> smdList;
 
-	public void load() throws Exception{
+	public void load() throws IOException{
 		this.loadArticulos();
 		this.loadCompras();
 		this.loadConvencional();
@@ -103,7 +99,7 @@ public class CSVLoader {
 	}
 
 
-	private void loadSMD() throws IOException, InterruptedException{
+	private void loadSMD() throws IOException {
 		List<String[]> csvRows = loadCSV("../onaur_programacion/SMD.csv");
 		smdList = new ArrayList<SMD>();
 		String semana = "";
@@ -128,9 +124,7 @@ public class CSVLoader {
 				smdList.add(smd);
 			}
 		}
-		
 		System.out.println("SMD: " + smdList.size());
-		
 	}
 
 	private List<String[]> loadCSV(String fileName) throws FileNotFoundException, IOException {

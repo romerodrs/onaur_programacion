@@ -3,8 +3,6 @@
  */
 package main;
 
-import java.io.IOException;
-
 import model.CSVLoader;
 
 /**
