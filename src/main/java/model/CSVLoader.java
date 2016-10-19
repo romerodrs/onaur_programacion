@@ -104,7 +104,7 @@ public class CSVLoader {
 
 
 	private void loadSMD() throws IOException, InterruptedException{
-		List<String[]> csvRows = loadCSV("../onaur_programacion/SMD.txt");
+		List<String[]> csvRows = loadCSV("../onaur_programacion/SMD.csv");
 		smdList = new ArrayList<SMD>();
 		String semana = "";
 		for(String[] row : csvRows){
@@ -128,11 +128,9 @@ public class CSVLoader {
 				smdList.add(smd);
 			}
 		}
-		FileWriter writer = new FileWriter("output.txt");
-		for(SMD smd : smdList){
-			writer.write(smd.toString() + "\n");
-		}
-		writer.close();
+		
+		System.out.println("SMD: " + smdList.size());
+		
 	}
 
 	private List<String[]> loadCSV(String fileName) throws FileNotFoundException, IOException {
