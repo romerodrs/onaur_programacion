@@ -1,5 +1,11 @@
 Manifest-Version: 1.0
+Implementation-Title: programacion
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: dlrr
+Implementation-Vendor-Id: com.onaur
 Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/programacion
+ /
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
