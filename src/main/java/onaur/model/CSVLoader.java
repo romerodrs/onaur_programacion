@@ -6,51 +6,41 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import com.opencsv.CSVReader;
 
-import onaur.dao.ArticulosDAO;
-import onaur.entity.ArticuloEntity;
-import onaur.pojo.Articulo;
+//import onaur.pojo.Articulo;
 import onaur.pojo.Compras;
 import onaur.pojo.Convencional;
 import onaur.pojo.SMD;
 
 public class CSVLoader {
 
-	private List<Articulo> articulosList;
+//	private List<Articulo> articulosList;
 	private List<Compras> comprasList;
 	private List <Convencional> convList;
 	private List<SMD> smdList;
-	@Autowired
-	private ArticulosDAO articulosDao;
+	
 
 	public void load() throws IOException{
-		this.loadArticulos();
+//		this.loadArticulos();
 		this.loadCompras();
 		this.loadConvencional();
 		this.loadSMD();
 	}
 
-	private void loadArticulos() throws IOException{
-		List<String[]> csvRows = loadCSV("../onaur_programacion/LISTADO_ARTICULOS.csv");
-		articulosList = new ArrayList<Articulo>();
-		for(String[] row : csvRows){
-			String rowSplitted[] = row[0].split(";");
+//	private void loadArticulos() throws IOException{
+//		List<String[]> csvRows = loadCSV("../onaur_programacion/LISTADO_ARTICULOS.csv");
+//		articulosList = new ArrayList<Articulo>();
+//		for(String[] row : csvRows){
+//			String rowSplitted[] = row[0].split(";");
 //			Articulo articulo = new Articulo();
 //			articulo.setReferencia(rowSplitted[0]);
 //			articulo.setArticulo(rowSplitted[1]);
 //			articulosList.add(articulo);
-			ArticuloEntity articulosEntity = new ArticuloEntity();
-			articulosEntity.setReferencia(rowSplitted[0]);
-			articulosEntity.setArticulo(rowSplitted[1]);
-			System.out.println(articulosEntity.toString());
-			articulosDao.save(articulosEntity);
-		}
-		System.out.println("ARTICULOS: " + articulosList.size());
-		
-	}
+//		}
+//		System.out.println("ARTICULOS: " + articulosList.size());
+//		
+//	}
 
 	private void loadCompras() throws IOException{
 		List<String[]> csvRows = loadCSV("../onaur_programacion/COMPRAS.csv");
