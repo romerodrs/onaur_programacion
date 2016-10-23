@@ -14,8 +14,8 @@ public class THTEntity {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long id;
 	
-	@Column(name="id_lote")
-	private String id_lote;
+	@Column(name="idLote")
+	private String idLote;
 	@Column(name = "estado_material_onaur")
 	private String estado_material_onaur;
 	@Column(name = "fecha_prev_material_onaur")
@@ -32,13 +32,15 @@ public class THTEntity {
 	private String programado_tht;
 	@Column(name="observaciones")
 	private String observaciones;
+	@Column(name="semana")
+	private String semana;
 	
 	public THTEntity() {}
 	public THTEntity(Long id, String id_lote, String estado_material_onaur, String fecha_prev_material_onaur,
 			String estado_material_cliente, String fecha_prev_material_cliente, String estado_material, String tiempo,
-			String programado_tht, String observaciones) {
+			String programado_tht, String observaciones, String semana) {
 		this.id = id;
-		this.id_lote = id_lote;
+		this.idLote = id_lote;
 		this.estado_material_onaur = estado_material_onaur;
 		this.fecha_prev_material_onaur = fecha_prev_material_onaur;
 		this.estado_material_cliente = estado_material_cliente;
@@ -47,12 +49,13 @@ public class THTEntity {
 		this.tiempo = tiempo;
 		this.programado_tht = programado_tht;
 		this.observaciones = observaciones;
+		this.semana = semana;
 	}
 	public Long getId() {
 		return id;
 	}
 	public String getId_lote() {
-		return id_lote;
+		return idLote;
 	}
 	public String getEstado_material_onaur() {
 		return estado_material_onaur;
@@ -78,35 +81,82 @@ public class THTEntity {
 	public String getObservaciones() {
 		return observaciones;
 	}
+	public String getSemana(){
+		return semana;
+	}
+	
 	public void setId(Long id) {
 		this.id = id;
 	}
 	public void setId_lote(String id_lote) {
-		this.id_lote = id_lote;
+		if(id_lote.equals("non_value")){
+			this.idLote = " ";
+		}else{
+			this.idLote = id_lote;
+		}
 	}
 	public void setEstado_material_onaur(String estado_material_onaur) {
-		this.estado_material_onaur = estado_material_onaur;
+		if(estado_material_onaur.equals("non_value")){
+			this.estado_material_onaur = " ";
+		}else{
+			this.estado_material_onaur = estado_material_onaur;
+		}
 	}
 	public void setFecha_prev_material_onaur(String fecha_prev_material_onaur) {
-		this.fecha_prev_material_onaur = fecha_prev_material_onaur;
+		if(fecha_prev_material_onaur.equals("non_value")){
+			this.fecha_prev_material_onaur = " ";
+		}else{
+			this.fecha_prev_material_onaur = fecha_prev_material_onaur;
+		}	
 	}
 	public void setEstado_material_cliente(String estado_material_cliente) {
-		this.estado_material_cliente = estado_material_cliente;
+		if(estado_material_cliente.equals("non_value")){
+			this.estado_material_cliente = " ";
+		}else{
+			this.estado_material_cliente = estado_material_cliente;
+		}
 	}
 	public void setFecha_prev_material_cliente(String fecha_prev_material_cliente) {
-		this.fecha_prev_material_cliente = fecha_prev_material_cliente;
+		if(fecha_prev_material_cliente.equals("non_value")){
+			this.fecha_prev_material_cliente = " ";
+		}else{
+			this.fecha_prev_material_cliente = fecha_prev_material_cliente;
+		}
 	}
 	public void setEstado_material(String estado_material) {
-		this.estado_material = estado_material;
+		if(estado_material.equals("non_value")){
+			this.estado_material = " ";
+		}else{
+			this.estado_material = estado_material;
+		}
 	}
 	public void setTiempo(String tiempo) {
-		this.tiempo = tiempo;
+		if(tiempo.equals("non_value")){
+			this.tiempo = " ";
+		}else{
+			this.tiempo = tiempo;
+		}
 	}
 	public void setProgramado_tht(String programado_tht) {
-		this.programado_tht = programado_tht;
+		if(programado_tht.equals("non_value")){
+			this.programado_tht = " ";
+		}else{
+			this.programado_tht = programado_tht;
+		}
 	}
 	public void setObservaciones(String observaciones) {
-		this.observaciones = observaciones;
+		if(observaciones.equals("non_value")){
+			this.observaciones = " ";
+		}else{
+			this.observaciones = observaciones;
+		}
+	}
+	public void setSemana(String semana){
+		if(semana.equals("non_value")){
+			this.semana = " ";
+		}else{
+			this.semana = semana;
+		}
 	}
 	
 	
