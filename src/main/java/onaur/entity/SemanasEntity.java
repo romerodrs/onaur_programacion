@@ -14,70 +14,84 @@ public class SemanasEntity {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long id;
 
-	@Column(name = "num_semana")
-	private String num_semana;
-	@Column(name = "fecha_inicio_semana")
-	private String fecha_inicio_semana;
-	@Column(name = "fecha_final_semana")
-	private String fecha_final_semana;
-	@Column(name = "horas_laborables")
-	private String horas;
+	@Column(name = "week_num")
+	private String week_num;
+	@Column(name = "week_start_date")
+	private String week_start_date;
+	@Column(name = "week_end_date")
+	private String week_end_date;
+	@Column(name = "working_hours")
+	private String working_hours;
 	@Column(name = "year")
 	private String year;
 	
 	public SemanasEntity() {}
-	
-	public SemanasEntity(Long id, String num_semana, String fecha_inicio_semana, String fecha_final_semana,
-			String horas, String year) {
+
+	public SemanasEntity(Long id, String week_num, String week_start_date, String week_end_date, String working_hours,
+			String year) {
+		super();
 		this.id = id;
-		this.num_semana = num_semana;
-		this.fecha_inicio_semana = fecha_inicio_semana;
-		this.fecha_final_semana = fecha_final_semana;
-		this.horas = horas;
+		this.week_num = week_num;
+		this.week_start_date = week_start_date;
+		this.week_end_date = week_end_date;
+		this.working_hours = working_hours;
 		this.year = year;
 	}
 
 	public Long getId() {
 		return id;
 	}
-	public String getNum_semana() {
-		return num_semana;
-	}
-	public String getFecha_inicio_semana() {
-		return fecha_inicio_semana;
-	}
-	public String getFecha_final_semana() {
-		return fecha_final_semana;
-	}
-	public String getHoras() {
-		return horas;
-	}
-	public String getYear() {
-		return year;
-	}
+
 	public void setId(Long id) {
 		this.id = id;
 	}
-	public void setNum_semana(String num_semana) {
-		this.num_semana = num_semana;
+
+	public String getWeek_num() {
+		return week_num;
 	}
-	public void setFecha_inicio_semana(String fecha_inicio_semana) {
-		this.fecha_inicio_semana = fecha_inicio_semana;
+
+	public void setWeek_num(String week_num) {
+		this.week_num = week_num;
 	}
-	public void setFecha_final_semana(String fecha_final_semana) {
-		this.fecha_final_semana = fecha_final_semana;
+
+	public String getWeek_start_date() {
+		return week_start_date;
 	}
-	public void setHoras(String horas) {
-		this.horas = horas;
+
+	public void setWeek_start_date(String week_start_date) {
+		this.week_start_date = week_start_date;
 	}
+
+	public String getWeek_end_date() {
+		return week_end_date;
+	}
+
+	public void setWeek_end_date(String week_end_date) {
+		this.week_end_date = week_end_date;
+	}
+
+	public String getWorking_hours() {
+		return working_hours;
+	}
+
+	public void setWorking_hours(String working_hours) {
+		this.working_hours = working_hours;
+	}
+
+	public String getYear() {
+		return year;
+	}
+
 	public void setYear(String year) {
 		this.year = year;
 	}
+
 	@Override
 	public String toString() {
-		return "SemanasEntity [id=" + id + ", num_semana=" + num_semana + ", fecha_inicio_semana=" + fecha_inicio_semana
-				+ ", fecha_final_semana=" + fecha_final_semana + ", horas=" + horas + ", year=" + year + "]";
+		return "SemanasEntity [id=" + id + ", week_num=" + week_num + ", week_start_date=" + week_start_date
+				+ ", week_end_date=" + week_end_date + ", working_hours=" + working_hours + ", year=" + year + "]";
 	}
+	
 
 
 }

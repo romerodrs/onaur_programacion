@@ -16,8 +16,8 @@ public class SMDEntity {
 
 	@Column(name = "semana")
 	private String semana;
-	@Column(name = "id_lote")
-	private String id_lote;
+	@Column(name = "idLote")
+	private String idLote;
 	@Column(name = "CAD")
 	private String CAD;
 	@Column(name = "estado_material_onaur")
@@ -48,7 +48,7 @@ public class SMDEntity {
 			String programado_smd, String observaciones, String pantalla, String pantalla_estado) {
 		this.id = id;
 		this.semana = semana;
-		this.id_lote = id_lote;
+		this.idLote = id_lote;
 		CAD = cAD;
 		this.estado_material_onaur = estado_material_onaur;
 		this.fecha_prev_material_onaur = fecha_prev_material_onaur;
@@ -70,7 +70,7 @@ public class SMDEntity {
 	}
 
 	public String getId_lote() {
-		return id_lote;
+		return idLote;
 	}
 
 	public String getCAD() {
@@ -123,7 +123,7 @@ public class SMDEntity {
 	}
 
 	public void setId_lote(String id_lote) {
-		this.id_lote = id_lote;
+		this.idLote = id_lote;
 	}
 
 	public void setCAD(String cAD) {

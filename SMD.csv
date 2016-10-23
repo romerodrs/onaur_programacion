@@ -1,4 +1,3 @@
-non_value;1;non_value;non_value;non_value;non_value;non_value;non_value;non_value;13;32;19
 #REF!;non_value;SI;SOR0045;11;315862 PLACA CABEZAL;24;*;*;0'94;non_value;non_value
 #REF!;non_value;SI;SOR0047;11;315863 PLACA BIPOLAR 50MM;16;*;*;0'85;non_value;non_value
 #REF!;non_value;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;*;*;1'13;non_value;non_value
@@ -31,7 +30,7 @@ non_value;3;non_value;non_value;non_value;non_value;non_value;non_value;non_valu
 #REF!;non_value;NO;ELE0021;1;A00338-D SMD;102;L;*;5'38;non_value;non_value
 #REF!;2;NO;JVV0150;1;0872-001-0R01;1000;L;*;2'5;non_value;non_value
 #REF!;1;SI;JVV0152;1;0877-010-0R03;91;L;*;2'86;non_value;PERFIL DE HORNO GENERICO.
-#REF!;3;NO;JVV0067;6;0917-004-0R02 M5;20;*;*;1'59;non_value;18/01/16 maña me entregan material  20/01/16  ME TRAEN HOY EL MATERIAL 21/01/16 RECIBIMOS CIRCUITO DE CIPSA DIRECTAMENTE
+#REF!;3;NO;JVV0067;6;0917-004-0R02 M5;20;*;*;1'59;non_value;18/01/16 manana me entregan material  20/01/16  ME TRAEN HOY EL MATERIAL 21/01/16 RECIBIMOS CIRCUITO DE CIPSA DIRECTAMENTE
 #REF!;non_value;SI;ING0006_01;2;i154-01H4_PCA;6;*;L;6;non_value;non_value
 #REF!;1;SI;CES0004;7;SC160_CI376P;54;*;*;4'61;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
@@ -68,12 +67,12 @@ non_value;6;non_value;non_value;non_value;non_value;non_value;non_value;non_valu
 #REF!;non_value;NO;JVV0027;15;0949-002-0R01 M5;60;*;*;1'56;non_value;non_value
 #REF!;non_value;NO;JVV0103;5;0877-036-0R02 M1;50;*;*;1'73;non_value;non_value
 #REF!;non_value;NO;JVV0107;2;0589-020-0R03;192;*;*;1'69;non_value;non_value
-#REF!;non_value;SI;CIP0001;35;2748.0020 MYR PEQUEÑA;150;*;*;5'42;non_value;non_value
+#REF!;non_value;SI;CIP0001;35;2748.0020 MYR PEQUENA;150;*;*;5'42;non_value;non_value
 #REF!;OF24;SI;PLA0001;5'2;SE-370-GI  ;1000;*;*;5'82;non_value;RESPETAR FECHA ENTREGA
 #REF!;non_value;NO;CSE0014_01;KIC1;ECGEXPERT02_02_C;1;*;L;3'12;non_value;non_value
 #REF!;non_value;SI;CSE0014_01;1;ECGEXPERT02_02_C;50;*;*;*;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
-11/02/2016;*;*;*;*;THE LED DAY;*;*;*;*;*;SEMINARIO CIRCUITOS ALUMINIO ORGANIZADO POR FABRICANTE PLANCHA PCB. DEJAR MONTAJE FACIL YA QUE ALBERTO NO ESTARÁ ESTE DÍA.
+11/02/2016;*;*;*;*;THE LED DAY;*;*;*;*;*;SEMINARIO CIRCUITOS ALUMINIO ORGANIZADO POR FABRICANTE PLANCHA PCB. DEJAR MONTAJE FACIL YA QUE ALBERTO NO ESTARA ESTE DIA.
 non_value;7;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
 #REF!;non_value;SI;PRE0034;5;6771A CRS-120;25;*;*;3'98;non_value;non_value
 #REF!;non_value;SI;PRE0001;11;0580-ESPECIAL ;60;*;*;5'14;non_value;FALTA UN MATERIAL SMD QUE EN PRINCIPIO 15/02 TRAEN. PUEDEN ESPERAR A UN PARCIAL DE 35u PARA 19/02
@@ -139,7 +138,7 @@ non_value;non_value;non_value;non_value;non_value;ACABAR WAV0025;non_value;non_v
 #REF!;non_value;SI;SOR0007;15;316014 CONTROL GENERAL SKINLIGHT;30;*;*;*;non_value;non_value
 #REF!;non_value;NO;IRE0001;1;CAMALEON_PROTOS;3;*;*;*;non_value;MONTAJE MANUAL CON PANTALLA PROTO. CONTROL HORAS
 #REF!;non_value;NO;JVV0019;11;0949-003-0R02 M1;40;*;*;1'87;non_value;non_value
-#REF!;non_value;NO;JVV0087;2;0949-004-0R01 M3;50;*;*;2'73;non_value;segun Jordi (Onaur) faltará 1 led en la última imagen... marcar placa
+#REF!;non_value;NO;JVV0087;2;0949-004-0R01 M3;50;*;*;2'73;non_value;segun Jordi (Onaur) faltara 1 led en la  ultima imagen... marcar placa
 #REF!;non_value;NO;JVV0103;7;0877-036-0R02 M1 ;100;*;*;1'47;non_value;non_value
 #REF!;non_value;SI;CIP0009;2;2748.0240 MYR DISPENSADOR EC500;30;L;*;1'61;non_value;RECIBIMOS PANTALLA CLIENTE 11/03/16
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
@@ -175,7 +174,7 @@ non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 DEL 04-04 AL 08-04;14;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
 #REF!;OF28;SI;PLA0001;7'1;SE-370-GI   OF28;2000;*;*;5'4;non_value;1000 PARA 4/4/16 Y 1000 PARA 2/5/16
-#REF!;non_value;NO;ELE0018_02;3;E00740-B;525;*;L;5'85;non_value;CAMBIO DE REVISION DE CIRCUITO (AHORA ES REV.B PERO NO IMPLICA NINGUN CAMBIO EN SOLDADURA DE COMPONENTES SMD SEGUN CLIENTE) 29/03 cliente notifica que el cirtuito va con retraso y no lo recibirá hasta 05/04 
+#REF!;non_value;NO;ELE0018_02;3;E00740-B;525;*;L;5'85;non_value;CAMBIO DE REVISION DE CIRCUITO (AHORA ES REV.B PERO NO IMPLICA NINGUN CAMBIO EN SOLDADURA DE COMPONENTES SMD SEGUN CLIENTE) 29/03 cliente notifica que el cirtuito va con retraso y no lo recibira hasta 05/04 
 #REF!;non_value;SI;PRE0001;13;0580-ESPECIAL;40;*;*;4'62;non_value;non_value
 #REF!;non_value;SI;PRE0030;9;6770A CRS-120;30;*;*;3'95;non_value;non_value
 #REF!;non_value;NO;JVV0097;4;0932-016-0Ar03;100;*;*;3'65;non_value;non_value
@@ -192,7 +191,7 @@ DEL 11-04 AL 15-04;15;non_value;non_value;non_value;non_value;non_value;non_valu
 #REF!;non_value;NO;JVV0156;2;0949-016-0R02 M5;215;*;*;3'44;non_value;non_value
 #REF!;non_value;NO;JVV0148;8;0589-029-0R01 M3;268;*;*;2'78;non_value;non_value
 #REF!;non_value;NO;JVV0157;1;0589-029-0R01 M11;54;L;*;*;non_value;non_value
-#REF!;non_value;NO;JVV0160;1;1059-001-0R01 M1 3000K;956;L;*;5'59;non_value;PARCIAL DE 20/30 PLACAS MIERCOLES 13/04 X LA MNÑ // LAS PLACAS LAS RECIBIMOS LUNES 11/04 quedara pdte el diodo y unos cuantos leds que los recibiremos 12/04 antes de las 12h
+#REF!;non_value;NO;JVV0160;1;1059-001-0R01 M1 3000K;956;L;*;5'59;non_value;PARCIAL DE 20/30 PLACAS MIERCOLES 13/04 X LA MANANa // LAS PLACAS LAS RECIBIMOS LUNES 11/04 quedara pdte el diodo y unos cuantos leds que los recibiremos 12/04 antes de las 12h
 #REF!;non_value;NO;JVV0160;2;1059-001-0R01 M2 4000K;504;*;*;*;non_value;non_value
 #REF!;non_value;NO;JVV0045;8;0877-030-0R01 M4;15;*;*;1'06;non_value;non_value
 #REF!;non_value;NO;JVV0107;3;0589-020-0R03 ;160;*;*;1'66;non_value;Material max. 14/04
@@ -217,7 +216,7 @@ DEL 18-04 AL 22-04;16;non_value;non_value;non_value;non_value;non_value;non_valu
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 DEL 25-04 AL 29-04;17;non_value;non_value;non_value;non_value;non_value;non_value;non_value;15;40;25
-#REF!;non_value;NO;WAV0029;1;ONIRIS_SWITCH;30;L;*;2'47;non_value;MUY URGENTE ¡¡¡¡¡ 
+#REF!;non_value;NO;WAV0029;1;ONIRIS_SWITCH;30;L;*;2'47;non_value;MUY URGENTE!!!!
 #REF!;non_value;SI;PRE0001;14;0580-ESPECIAL;25;*;*;4'24;non_value;non_value
 #REF!;non_value;SI;PRE0052_01;2;0748_C4 ESPECIAL CTS-240;205;*;*;5'55;non_value;non_value
 #REF!;non_value;NO;ELE0007;5;E00708-D;540;*;*;4'17;non_value;non_value
@@ -340,7 +339,7 @@ non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;
 DEL 13//06 AL 17/06;24;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
 #REF!;non_value;SI;PRE0057;1;9286.3_2 ESPECIAL;30;*;L;0'92;non_value;INCLUIDA EN PRE0056 NP-0720.3 LOTE 1 // HAY ALIMENTADORES COMUNES CON PRE0056 y PRE0059
 #REF!;non_value;SI;PRE0057;2;9286.3_2 ESPECIAL;30;*;*;0'92;non_value;INCLUIDA EN PRE0059 NP-0747 LOTE 1 // HAY ALIMENTADORES COMUNES CON PRE0056 y PRE0059
-#REF!;non_value;SI;NOV0001;9;MLS-LDM-DRV;50;*;*;2'03;non_value;urgente¡¡¡
+#REF!;non_value;SI;NOV0001;9;MLS-LDM-DRV;50;*;*;2'03;non_value;urgente!!!
 #REF!;non_value;NO;WAV0020_01;10;SMP2 EXPANSION400v2;36;*;*;3'66;non_value;Probar pantalla electropulido
 #REF!;non_value;SI;SOR0116_01;23;315482 IMPRES-240;25;*;L;2'63;non_value;non_value
 #REF!;non_value;SI;CES0012;1;CI-419A;5;L;*;1'2;non_value;non_value
@@ -464,7 +463,7 @@ DEL 19/09 AL 23/09;38;non_value;non_value;non_value;non_value;non_value;non_valu
 #REF!;non_value;SI;LEA0003;2;HANDPIECEBUFFER;48;*;*;0'95;non_value;non_value
 #REF!;non_value;SI;LEA0002;2;CTRLBOARD;48;*;*;0'8;non_value;non_value
 #REF!;non_value;SI;PLA0001;11;SE-370-GI;2500;*;*;6'47;non_value;non_value
-#REF!;non_value;SI;CIP0001;36;2748.0010 MYR PEQUEÑA;70;*;*;2'06;non_value;non_value
+#REF!;non_value;SI;CIP0001;36;2748.0010 MYR PEQUENA;70;*;*;2'06;non_value;non_value
 20/10/2016;non_value;SI;PRE0056_01;4;0720.3_E2 ESPECIAL;500;*;*;11'36;non_value;non_value
 20/10/2016;non_value;SI;PRE0057;5;9286.3_2 ESPECIAL;500;*;*;15'3;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
@@ -515,7 +514,7 @@ non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 DEL 24/10 AL 28/10;43;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
 04/11/2016;non_value;SI;THI0016_01;2;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
-02/11/2016;non_value;SI;SOR0101;19;315573 Distribucion potencia PHOTOCARE;24;*;*;0'57;non_value;ESTA LISTA PERO HAY PROBLEMAS CON RELÉ THT' SORISA ESTA BUSCANDO ALTERNATIVAS...
+02/11/2016;non_value;SI;SOR0101;19;315573 Distribucion potencia PHOTOCARE;24;*;*;0'57;non_value;ESTA LISTA PERO HAY PROBLEMAS CON RELE THT' SORISA ESTA BUSCANDO ALTERNATIVAS...
 18/11/2016;non_value;SI;PRE0035;22;6780A CRS-120;50;*;*;1'25;non_value;non_value
 11/11/2016;non_value;SI;PRE0040;11;6779A CRS-120;25;*;*;0'63;non_value;non_value
 11/11/2016;non_value;SI;PRE0029;6;0700.2 PLANO E VERSION 3 ESPECIAL;105;*;*;4'33;non_value;non_value
@@ -637,7 +636,7 @@ non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 DEL 16/01 AL 20/01;3;non_value;non_value;non_value;non_value;non_value;non_value;non_value;0;40;40
-10/02/2017;non_value;SI;THI0016;5;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
+10/02/2017;non_value;SI;THI0016_01;5;POWERLATCH V1.1;250;*;*;0'99;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value
 non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value;non_value

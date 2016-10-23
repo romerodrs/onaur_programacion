@@ -13,7 +13,7 @@ public class LotesEntity {
     @Id
     @GeneratedValue(strategy=GenerationType.AUTO)
     private Long id;
-    @Column (name="id_lote")
+    @Column (name="idLote")
     private String idLote;
     @Column (name="referencia")
     private String referencia;

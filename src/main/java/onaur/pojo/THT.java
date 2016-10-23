@@ -1,6 +1,6 @@
 package onaur.pojo;
 
-public class Convencional {
+public class THT {
 	private String fecha_entrega;
 	private String preparado;
 	private String SMD;
