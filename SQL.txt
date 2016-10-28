@@ -1,0 +1,5 @@
+ALTER TABLE onaur.smd MODIFY COLUMN observaciones VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL;
+	
+ALTER TABLE onaur.tht MODIFY COLUMN observaciones VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL;
+	
+ALTER TABLE onaur.compras MODIFY COLUMN observaciones VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL;

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html ng-app="compras">
+<head>
+<meta charset="UTF-8">
+<title>ONAUR Programacion</title>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.js"></script>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-resource.js"></script>
+<script src="js/services.js"></script>
+</head>
+<body ng-app="springmvc-angular" ng-controller="ComprasController"
+	ng-init="getCompras()">
+	<h1>Compras - ONAUR</h1>
+
+	<table ng-show="compras != null">
+		<tr ng-repeat-start="compra in compras">
+			<td>{{compra.fecha_solicitud}}</td>
+			<td>{{compra.fecha_confirmacion}}</td>
+			<td>{{compra.of}}</td>
+			<td>{{compra.idLote}}</td>
+			<td>{{compra.cantidad}}</td>
+			<td><input type="button" ng-click="" />
+		</tr>
+		<tr ng-repeat-end>
+			<td colspan="6">
+				<hr />
+			</td>
+		</tr>
+	</table>
+
+
+</body>
+</html>
