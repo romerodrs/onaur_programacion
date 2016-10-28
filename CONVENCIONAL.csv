@@ -2,8 +2,8 @@
 #REF!;PREP;SI;CIP0002;3;PALETFILM-CSE;100;100;0;non_value;non_value;non_value
 #REF!;non_value;SI;SOR0018;23;900067 PLACA SALIDAS BODYTER PREMIUM;25;25;0;non_value;non_value;non_value
 #REF!;PREP;NO;SOR0153_01;5;BLOQUE DISPARO NORA PLUS +;20;20;0;non_value;non_value;LLEVA INCLUIDO SOR0154+SOR0157+BLACKPLANE
-#REF!;PREP;SI;PRE0053;1;0720.2 ESPECIAL  (INCLUEYE PRE0054);200;200;0;88'24;non_value;OJO!! CONTROL DE HORAS EXHAUSTIVO  ANOTAR EN ACTIVIDADES DE SAGE Y EN HOJA A PARTE TODOS LOS TIEMPOS DE MONTAJES.
-#REF!;PREP;SI;PRE0054;1;9286.2 ESPECIAL;200;200;0;19'93;non_value;OJO!! CONTROL DE HORAS EXHAUSTIVO  ANOTAR EN ACTIVIDADES DE SAGE Y EN HOJA A PARTE TODOS LOS TIEMPOS DE MONTAJES.
+#REF!;PREP;SI;PRE0053;1;0720.2 ESPECIAL  (INCLUEYE PRE0054);200;200;0;88'24;non_value;OJO!! CONTROL DE HORAS EXHAUSTIVO' ANOTAR EN ACTIVIDADES DE SAGE Y EN HOJA A PARTE TODOS LOS TIEMPOS DE MONTAJES.
+#REF!;PREP;SI;PRE0054;1;9286.2 ESPECIAL;200;200;0;19'93;non_value;OJO!! CONTROL DE HORAS EXHAUSTIVO' ANOTAR EN ACTIVIDADES DE SAGE Y EN HOJA A PARTE TODOS LOS TIEMPOS DE MONTAJES.
 #REF!;PREP;SI;SOR0095;10;316162 CONTROL HITACHI;26;26;0;non_value;non_value;non_value
 #REF!;PREP;SI;CES0001;12;SC310_CI385;50;50;0;non_value;non_value;non_value
 #REF!;non_value;SI;PLA0001;6'1;SE-370-GI   OF27;1000;1000;0;non_value;non_value;OF26 /1000 1/3/16  1000 4/4/16
@@ -26,7 +26,7 @@
 #REF!;PREP;SI;PRE0001;13;0580-ESPECIAL;40;40;0;non_value;non_value;non_value
 #REF!;PREP;NO;LEA0004;1;IrSensor;50;50;0;non_value;non_value;SOLO DESPANELAR.
 #REF!;PREP;SI;LEA0005;1;MainBoard;50;50;0;non_value;non_value;non_value
-#REF!;PREP;SI;ING0010;1;i150-01H1-1 2 0;11;11;0;non_value;non_value;non_value
+#REF!;PREP;SI;ING0010;1;i150-01H1-1'2'0;11;11;0;non_value;non_value;non_value
 #REF!;non_value;NO;SOR0057;19;10009 TUBO SILICONA ENTRADA;25;25;0;non_value;non_value;non_value
 #REF!;PREP;NO;SOR0156;3;REPARACION BOARD TRIGGER;17;17;0;non_value;non_value;non_value
 #REF!;-;NO;SOR0044;14;11153 CABEZAL MONOPOLAR;20;20;0;non_value;non_value;non_value
@@ -58,7 +58,7 @@
 #REF!;PREP;SI;PRE0019;16;6669D CTS-240;90;90;0;31'51;non_value;non_value
 #REF!;non_value;NO;SOR0056;29;392332 SOPORTE DEPOSITO CON MUELLE;25;25;0;non_value;non_value;non_value
 #REF!;non_value;NO;SOR0030;18;MECANIZADO PANTALLA HITACHI;25;25;0;non_value;non_value;non_value
-#REF!;non_value;SI;MON0004_02;6;817PWDRV V3;30;30;0;non_value;non_value;OJO 24 PLACAS CON MONTAJE CONECTORES WURTH  6 PLACAS SIN MONTAR.
+#REF!;non_value;SI;MON0004_02;6;817PWDRV V3;30;30;0;non_value;non_value;OJO 24 PLACAS CON MONTAJE CONECTORES WURTH' 6 PLACAS SIN MONTAR.
 #REF!;PREP;SI;MON0010_03;7;SAPPHIRE_LS_ON_v3_Modif.;115;115;0;non_value;non_value;non_value
 #REF!;PREP;SI;PRE0008;24;6354A CRS-240;25;25;0;9'68;non_value;non_value
 #REF!;PREP;SI;PRE0024;6;6370B CRS-240;60;60;0;non_value;non_value;non_value
@@ -76,9 +76,9 @@
 #REF!;PREP;SI;PRE0001;11;0580-ESPECIAL ;60;60;0;non_value;non_value;PUEDEN ESPERAR PARCIAL DE 35u PARA MAXIMO 19/02
 #REF!;non_value;SI;PLA0001;4;SE-370-GI   OF22;2000;2000;0;non_value;non_value;OF22
 #REF!;non_value;NO;MYR0001;24'2;MONTAJE CABLES JARRA DE PARAFINA;120;120;0;non_value;non_value;SE PUEDEN ENTREGAR ANTES DE LA FECHA
-#REF!;PREP;SI;CIP0001;35;2748.0020 MYR PEQUEÑA;150;150;0;25'17;non_value;entregadas 50 unid. 12/2/16
+#REF!;PREP;SI;CIP0001;35;2748.0020 MYR PEQUEï¿½A;150;150;0;25'17;non_value;entregadas 50 unid. 12/2/16
 #REF!;PREP;SI;PRE0051;2;NP-6670D CTS-240;105;105;0;non_value;non_value;non_value
-#REF!;PREP;SI;CIP0009;2;2748.0240 MYR DISPENSADOR EC500;30;30;0;non_value;non_value;SON URGENTS  INTENTAR ADELANTAR ENTREGA
+#REF!;PREP;SI;CIP0009;2;2748.0240 MYR DISPENSADOR EC500;30;30;0;non_value;non_value;SON URGENTS' INTENTAR ADELANTAR ENTREGA
 #REF!;PREP;SI;SOR0019;14;315856 CONTROL BODYTER PREMIUM;25;25;0;15'17;non_value;non_value
 #REF!;-;NO;SOR0068;23;"279254 TUBOS ""T"" BOMBA SKINLIGHT";25;25;0;non_value;non_value;non_value
 #REF!;non_value;NO;SOR0087;77;7209 BOBINA COMP.AF.PLUS.BELEX06;25;25;0;2'83;non_value;MUY URGENTE
@@ -103,7 +103,7 @@
 #REF!;-;NO;SOR0075;25;11007 CRIOTERAPIA SKINLIGHT;25;25;0;non_value;non_value;non_value
 #REF!;PREP;SI;ALB0004;1;PCB DIFF2LVTTL;12;12;0;non_value;non_value;non_value
 #REF!;PREP;SI;SOR0101;17;315573 DISTRIBUCION POTENCIA PHOTO.;24;24;0;non_value;non_value;non_value
-#REF!;non_value;non_value;SOR0059;16;279420 PORTAFUSIBLES+MANGUERA;50;50;0;non_value;non_value;MUY URGENTES ¡¡¡ ( CON 15 UNIDADES PASAN)
+#REF!;non_value;non_value;SOR0059;16;279420 PORTAFUSIBLES+MANGUERA;50;50;0;non_value;non_value;MUY URGENTES ï¿½ï¿½ï¿½ ( CON 15 UNIDADES PASAN)
 #REF!;PREP;SI;ING0005_01;2;i021-02H1_2.1.0;108;108;0;4'92;non_value;non_value
 #REF!;PREP;SI;SOR0008;22;315661 C.I. SALIDAS SKINLIGHT;24;24;0;non_value;non_value;non_value
 #REF!;PREP;SI;PRE0001;12;0580-ESPECIAL;95;95;0;non_value;non_value;NECESITAN UN PARCIAL DE 5u CON URGENCIA!! ME PIDEN 07/03 
@@ -146,7 +146,7 @@ non_value;PREP;NO;THI0008;1;CAJA POWERBOX MOTO;200;200;0;non_value;non_value;LLE
 #REF!;-;NO;SOR0073_01;11;11012 SONDA VACIO SKINLIGHT;75;75;0;11'25;non_value;non_value
 #REF!;non_value;SI;MIL0001_01;19;PLACA CONDENSADORES;2;2;0;non_value;non_value;non_value
 #REF!;PREP;SI;SOR0022;25;315879 C.I.MANDO IRDA;27;27;0;non_value;non_value;GRABADAS Y VERIFICADAS
-#REF!;non_value;NO;SOR0069;21;10957 MEDIDOR PRESION IMPRES 240;15;15;0;non_value;non_value;OJO¡¡¡ NECESITAN URGENTES 5 UNIDADES PARA EL LUNES 30-5-16
+#REF!;non_value;NO;SOR0069;21;10957 MEDIDOR PRESION IMPRES 240;15;15;0;non_value;non_value;OJOï¿½ï¿½ï¿½ NECESITAN URGENTES 5 UNIDADES PARA EL LUNES 30-5-16
 #REF!;PREP;NO;MIL0001_01;17;PLACA CONDENSADORES;5;5;0;non_value;non_value;non_value
 #REF!;-;NO;MYR0001;25;Cables jarra parafina;50;50;0;non_value;non_value;PIMEM
 non_value;PREP;SI;SOR0045;11;315862 PLACA CABEZAL;24;24;0;non_value;non_value;non_value
@@ -159,7 +159,7 @@ non_value;PREP;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;35;0;non_value;n
 #REF!;-;NO;SOR0059;17;279420 PORTAFUSIBLES+MANGUERA;200;200;0;4'11;non_value;non_value
 #REF!;-;NO;SOR0071;20;910068 TUBO CONEX. BOMBA ELECTROVAL.;25;25;0;non_value;non_value;non_value
 #REF!;-;NO;SOR0126;23;910029 TUBO FILTRO ELECTROVALVULAS;30;30;0;non_value;non_value;non_value
-#REF!;-;SI;PLA0001;8'2;SE-370-GI  OF 119;3000;3000;0;non_value;non_value;120u ENTREGA 30/05 RESTO (2880u) ENTREGA 27/06. CPA: 120u VERIFICADAS  25001>25120
+#REF!;-;SI;PLA0001;8'2;SE-370-GI  OF 119;3000;3000;0;non_value;non_value;120u ENTREGA 30/05 RESTO (2880u) ENTREGA 27/06. CPA: 120u VERIFICADAS' 25001>25120
 #REF!;-;NO;THI0015;1;PILA_9V_v1_CONV.;266;266;0;non_value;non_value;DESPANELAR TAMBIEN EL RESTO DE PCB DE SMD QUE NO SE MONTA CONVENCIONAL.
 #REF!;non_value;SI;PLA0001;8'3;SE-370-GI;1000;1000;0;non_value;non_value;non_value
 #REF!;non_value;NO;SOR0070;19;910065 CONJ. TUBOS XONEX. ELEC.C.I.;25;25;0;non_value;non_value;non_value
@@ -217,12 +217,12 @@ non_value;PREP;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;35;0;non_value;n
 #REF!;       -;NO;CSE0016;4;FWIRET_01A MECANIZADO;100;100;0;2'53;non_value;LLEVA INCLUIDO CSE0027
 #REF!;      -;NO;MYR0001;27;Cables jarra parafina;91;91;0;non_value;non_value;PIMEM14/07 APROX
 #REF!;-;NO;SOR0033;46;7193 VENTOSA BOCA 10mm;50;50;0;1'46;non_value;non_value
-#REF!;PREP;NO;GUT0002;1;TFA Rev00;5;5;0;non_value;non_value;DPTE.CIRCUITOS > 15/07 SE LOS LLEVA CIPSA  HAN VENIDO MAL  LOS REPITEN PARA 19/07 > RECIBIMOS LOS CIRCUITOS
+#REF!;PREP;NO;GUT0002;1;TFA Rev00;5;5;0;non_value;non_value;DPTE.CIRCUITOS > 15/07 SE LOS LLEVA CIPSA' HAN VENIDO MAL' LOS REPITEN PARA 19/07 > RECIBIMOS LOS CIRCUITOS
 #REF!;PREP;SI;PRE0055;1;6674HD CTS-240 ALARMAS;25;25;0;2'55;non_value;non_value
 #REF!;PREP;SI;PRE0060;1;6669HD CTS-240 ALARMAS;40;40;0;4'08;non_value;non_value
 #REF!;PREP;SI;PRE0058;1;6888V031 CTS-120 ALARMAS;25;25;0;2'38;non_value;non_value
 #REF!;PREP;NO;SOR0156;4;REPARACION BOARD-TRIGGER P.N. 300-004;13;13;0;0'47;non_value;non_value
-#REF!;PREP;SI;SOR0095;11;316162 CONTROL HITACHI;26;26;0;5'04;non_value;URGENTE ¡¡¡¡¡¡¡
+#REF!;PREP;SI;SOR0095;11;316162 CONTROL HITACHI;26;26;0;5'04;non_value;URGENTE ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 #REF!;PREP;SI;SOR0101;18;315573 DISTRIBUCION POTENCIA PHOTOCARE;24;24;0;3'99;non_value;non_value
 #REF!;PREP;SI;CSE0008;3;FWIRET_02A;108;108;0;1'73;non_value;non_value
 #REF!;-;SI;ADV0013;1;3.3.63_FIREFLY;250;250;0;1'67;non_value;SOLO DESPANELAR
@@ -236,7 +236,7 @@ non_value;PREP;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;35;0;non_value;n
 #REF!;-;NO;SOR0060;16;11108 CONJUNTO TIME ALERT + SOPORTE MANDO IRDA;25;25;0;non_value;non_value;non_value
 #REF!;PREP;SI;PRE0062;1;9195_ESPECIAL;55;55;0;non_value;non_value;non_value
 #REF!;-;SI;PLA0001;9.2;SE-370-GI;2840;2840;0;20'78;non_value;non_value
-0;non_value;NO;SOR0069;22;10957 MEDIDOR PRESION IMPRES 240;25;25;0;non_value;non_value;non_value
+#REF!;non_value;NO;SOR0069;22;10957 MEDIDOR PRESION IMPRES 240;25;25;0;non_value;non_value;non_value
 #REF!;       -;SI;PLA0001;10;SE-370-GI OF267;1200;1200;0;9'3;non_value;non_value
 #REF!;PREP;SI;PLA0002;8;SE250PA-GI;1176;1176;0;non_value;non_value;2/9/16> 588 unidades   3/10/16> 588 unidades.
 #REF!;PREP;SI;SOR0036;32;CTR DEL DISPARO IPL;25;25;0;1'1;non_value;non_value
@@ -249,12 +249,12 @@ non_value;PREP;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;35;0;non_value;n
 #REF!;-;NO;SOR0038;42;PORTAGUJAS DE 4000;4;4;0;non_value;non_value;non_value
 #REF!;PREP;SI;PRE0057;3;9286.3_2 ESPECIAL;400;400;0;29'22;non_value;INCLUIDA EN PRE0056 LOTE 2
 #REF!;PREP;SI;ELE0009_03;10;E00716-D CONVENCIONAL;999;999;0;39'96;non_value;SE MONTA EL SMD COMO ELE0001
-#REF!;PREP;SI;IBE0002_01;12;XAAR;50;50;0;non_value;non_value;las 2 unidades pdtes. no pasan test de ETHERNET. 16-06-16> CPA: he sustituído el chip de ethernet en la placa 200171 i el PIC en la placa 200128. Ambas pasan ahora el test ethernet.
-#REF!;PREP;SI;IBE0002_01;13;XAAR v.5;48;48;0;non_value;non_value;ENTREGAR LAS DOS PLACAS DE ANTERIOR LOTE RECODIFICANDO ETIQUETA A LOS Nº 225 Y 226
+#REF!;PREP;SI;IBE0002_01;12;XAAR;50;50;0;non_value;non_value;las 2 unidades pdtes. no pasan test de ETHERNET. 16-06-16> CPA: he sustituï¿½do el chip de ethernet en la placa 200171 i el PIC en la placa 200128. Ambas pasan ahora el test ethernet.
+#REF!;PREP;SI;IBE0002_01;13;XAAR v.5;48;48;0;non_value;non_value;ENTREGAR LAS DOS PLACAS DE ANTERIOR LOTE RECODIFICANDO ETIQUETA A LOS Nï¿½ 225 Y 226
 #REF!;PREP;SI;IBE0003_01;11;INTER_T3 v2.1;50;50;0;6'21;non_value;non_value
 #REF!;PREP;SI;THI0015;2;PILA_9V_v1_CONVENCIONAL;330;330;0;8'87;non_value;el smd es ref.THI0014
-#REF!;PREP;SI;ING0006_01;2;i154-01H4-1 1 0PCA;5;5;0;non_value;non_value;non_value
-#REF!;PREP;SI;ING0007_01;non_value;i154-01H2-1 0 0B;5;5;0;non_value;non_value;non_value
+#REF!;PREP;SI;ING0006_01;2;i154-01H4-1'1'0PCA;5;5;0;non_value;non_value;non_value
+#REF!;PREP;SI;ING0007_01;non_value;i154-01H2-1'0'0B;5;5;0;non_value;non_value;non_value
 #REF!;PREP;SI;PRE0003_03;21;0690 ESPECIAL;50;50;0;37'72;non_value;non_value
 #REF!;PREP;SI;THI0016;1;POWERLATCH V1.1;50;50;0;1'18;non_value;NECESITAN 3 URGENTES. ENTREGAR JUNTO CON LA PCB PILA
 #REF!;-;NO;SOR0084;18;7210 BOTELLA PULVERIZADOR BELEX-06;50;50;0;non_value;non_value;devueltos casquillos 11/5/16 // entregan 24 unid. 13/5/16 /// pendientes 26 unid.
@@ -266,15 +266,15 @@ non_value;PREP;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;35;0;non_value;n
 #REF!;PREP;NO;LEA0004;2;IRSENSOR;100;100;0;0'69;non_value;non_value
 #REF!;-;NO;SOR0070;20;910065 CONJ. TUBOS CONEX. ELEC;25;25;0;0'62;non_value;non_value
 #REF!;-;NO;SOR0126;24;910029 TUBO FILTRO ELECTROVALVULAS;25;25;0;0'25;non_value;non_value
-#REF!;PREP;SI;PRE0056_01;3;0720.3_E2 ESPECIAL;300;300;0;69'58;non_value;1r PARCIAL (150u aprox) para 22/09 aprox.  RESTO para 29/09 aprox. CPA: Verificadas y acabadas 150 placas para parcial. Montados y verificados TODOS los cables y sensores temperatura. TODAS LAS PLACAS VERIFICADAS OK
-#REF!;PREP;SI;PRE0057;4;9286.3_2 ESPECIAL;300;300;0;21'92;non_value;1r PARCIAL (150u aprox) para 22/09 aprox.  RESTO para 29/09 aprox. CPA: Verificadas y acabadas 150u para parcial. CPA 23/09/16: TODAS LAS PLACAS VERIFICADAS OK
+#REF!;PREP;SI;PRE0056_01;3;0720.3_E2 ESPECIAL;300;300;0;69'58;non_value;1r PARCIAL (150u aprox) para 22/09 aprox.' RESTO para 29/09 aprox. CPA: Verificadas y acabadas 150 placas para parcial. Montados y verificados TODOS los cables y sensores temperatura. TODAS LAS PLACAS VERIFICADAS OK
+#REF!;PREP;SI;PRE0057;4;9286.3_2 ESPECIAL;300;300;0;21'92;non_value;1r PARCIAL (150u aprox) para 22/09 aprox.' RESTO para 29/09 aprox. CPA: Verificadas y acabadas 150u para parcial. CPA 23/09/16: TODAS LAS PLACAS VERIFICADAS OK
 #REF!;non_value;SI;ING0010;2;i150-01H1-1.2.0;52;52;0;7'83;non_value;non_value
 #REF!;PREP;SI;PLA0001;11;SE-370-GI;1080;1080;0;8'32;non_value;non_value
 #REF!;PREP;SI;SOR0095;12;316162 Control Hitachi;26;26;0;non_value;non_value;non_value
 #REF!;PREP;SI;PLA0001;11;SE-370-GI;1420;1420;0;10'73;non_value;non_value
 #REF!;PREP;SI;ING0005_02;3;i021-02H1_2.1.1;135;135;0;3'56;non_value;non_value
 #REF!;-;SI;ISE0002;1;CAMR0030_RA;16;16;0;0'09;non_value;SOLO DESPANELAR
-#REF!;PREP;SI;CIP0001;36;2748.0010 MYR PEQUEÑA;70;70;0;4'86;non_value;MYR PIDE ADELANTAR AL MÁXIMO YA QUE NECESITA A FINAL DE MES  
+#REF!;PREP;SI;CIP0001;36;2748.0010 MYR PEQUEï¿½A;70;70;0;4'86;non_value;MYR PIDE ADELANTAR AL Mï¿½XIMO YA QUE NECESITA A FINAL DE MES  
 #REF!;-;NO;SOR0012;14;CABEZAL LUZ/ELEC PSP FACIAL;8;8;0;3'41;non_value;non_value
 #REF!;PREP;NO;GUT0004;1;RA-24;5;5;0;0'32;non_value;non_value
 #REF!;non_value;SI;SOR0069;23;10957 MEDIDOR PRESION IMPRES;25;25;0;1'85;non_value;non_value
@@ -282,43 +282,56 @@ non_value;PREP;SI;SOR0049;15;315810 PCB CABEZAL BIPOLAR 30MM;35;35;0;non_value;n
 #REF!;PREP;SI;THI0011_02;3;FUELDRAINER_v12;153;153;0;1'28;non_value;non_value
 #REF!;PREP;NO;SOR0020;17;315902 C.I.CONECTORES BODYTER PREMIUM;28;28;0;6'84;non_value;non_value
 #REF!;-;SI;THI0005_01;2;STEERINGWHEEL BOARD V1.2b;48;48;0;0'2;non_value;SOLO DESPANELAR
-19/10/2016;PREP;SI;ELE0028;1;E00760-A CONVENCIONAL;498;non_value;#VALUE!;33'62;non_value;EL SMD ES ELE0023
+#REF!;PREP;SI;ELE0028;1;E00760-A CONVENCIONAL;498;498;0;33'62;non_value;EL SMD ES ELE0023
 #REF!;PREP;NO;SOR0158;1;7214 REGULADOR BELEX-08;25;25;0;2.44;non_value;INCLUIDO EN SOR0093_9714_BELEX-08
-20/10/2016;PREP;SI;PRE0001;17;0580 ESPECIAL M-14;25;non_value;#VALUE!;4'49;non_value;sólo pdte. 5 tapas
-20/10/2016;PREP;SI;PRE0019;18;6669D CTS-240;80;non_value;#VALUE!;12'03;non_value;MONTAR Y ENTREGAR JUNTO PRE0026
-20/10/2016;PREP;SI;PRE0026;13;6369A CRS-240;20;non_value;#VALUE!;*;non_value;MONTAR Y ENTREGAR JUNTO PRE0019
-20/10/2016;PREP;SI;PRE0056_01;4;0720.3_E2 ESPECIAL;500;non_value;#VALUE!;115'97;non_value;1r PARCIAL (150u aprox.) 06/10 VERIFICADAS OK                                                                                                2n PARCIAL (150u aprox.) 13/10  VERIFICADAS OK                                                                                                  3r PARCIAL (200u aprox.) 20/10
-20/10/2016;PREP;SI;PRE0057;5;9286.3_2 ESPECIAL;500;non_value;#VALUE!;36'53;non_value;1r PARCIAL (150u aprox.) 06/10. 30/09/16 CPA> VERIFICADAS OK                                                                                              2n PARCIAL (150u aprox.) 13/10 05/10/16 CPA> VERIFICADAS OK                                                                                                    3r PARCIAL (200u aprox.) 20/10
-20/10/2016;PREP;SI;PRE0004_01;3;0696_H004 ESPECIAL;25;non_value;#VALUE!;2'56;non_value;non_value
-20/10/2016;PREP;SI;PRE0015_01;4;9246_B1 ESPECIAL;25;non_value;#VALUE!;0'83;non_value;non_value
-21/10/2016;PREP;SI;THI0017;1;RELE IGNCUT_V2;150;non_value;#VALUE!;2'5;non_value;non_value
-21/10/2016;PREP;SI;BON0002_01;3;RASPBERRY UMBRELLA;150;non_value;#VALUE!;24'46;non_value;non_value
-24/10/2016;non_value;SI;PRE0052_01;3;0748 ESPECIAL CTS-240 PLANO C VER. 4;205;non_value;#VALUE!;21'24;non_value;non_value
-24/10/2016;non_value;SI;MON0012_01;2;DAE-20050-CTL02-ON_V2;20;non_value;#VALUE!;1'97;non_value;non_value
-24/10/2016;non_value;SI;ALB0005;1;PSB_V2.0;12;non_value;#VALUE!;0'44;non_value;non_value
-24/10/2016;non_value;SI;ALB0007;1;FEB_V2.0+SBD26HD_V2.0;12;non_value;#VALUE!;2'05;non_value;non_value
-24/10/2016;non_value;SI;ALB0008;1;ALBA MODILEC_V40;50;non_value;#VALUE!;16;non_value;non_value
-24/10/2016;non_value;SI;ALB0009;1;CACB_V3.0;9;non_value;#VALUE!;0'48;non_value;non_value
-24/10/2016;non_value;SI;ALB0010;1;CACB_V3.0_LV;3;non_value;#VALUE!;0'13;non_value;non_value
-27/10/2016;non_value;SI;ADV0007_01;3;3.3.86 Monitor;35;non_value;#VALUE!;0'78;non_value;non_value
-28/10/2016;non_value;SI;CES0007_01;7;SC420_CI410;69;non_value;#VALUE!;5'37;non_value;non_value
-01/11/2016;PREP;SI;SOR0154;7;PLACA DISPARO NORA +;60;non_value;#VALUE!;29'94;non_value;non_value
-01/11/2016;PREP;SI;SOR0157;7;PLACA SIMMER NORA;20;non_value;#VALUE!;6'54;non_value;non_value
-01/11/2016;non_value;NO;SOR0153_01;8;BLOQUE DISPARO NORA PLUS +;20;non_value;#VALUE!;non_value;non_value;LLEVA INCLUIDO SOR0154+SOR0157+BLACKPLANE
-02/11/2016;non_value;SI;SOR0007;17;316014 CONTROL GENERAL SKINLIGHT;25;non_value;#VALUE!;9'78;non_value;non_value
-02/11/2016;non_value;SI;SOR0101;19;315573 Distribucion potencia PHOTOCARE;24;non_value;#VALUE!;2'46;non_value;non_value
-03/11/2016;non_value;SI;PRE0003_03;22;0690-ESPECIAL G9;25;non_value;#VALUE!;4'42;non_value;non_value
-04/11/2016;non_value;SI;THI0016;2;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
-08/11/2016;non_value;SI;ALB0006;1;FMC_ADC_ISO_V3.0;12;non_value;#VALUE!;0'41;non_value;non_value
-11/11/2016;non_value;SI;PRE0040;11;6779A CRS-120;25;non_value;#VALUE!;3'01;non_value;non_value
-11/11/2016;non_value;SI;PRE0029;6;0700.2 PLANO E VERSION 3 ESPECIAL;105;non_value;#VALUE!;10'59;non_value;non_value
-18/11/2016;non_value;SI;PRE0035;22;6780A CRS-120;50;non_value;#VALUE!;6'18;non_value;non_value
-21/11/2016;non_value;SI;CES0003_01;16;SC102_CI401;200;non_value;#VALUE!;16'94;non_value;non_value
-22/11/2016;non_value;SI;PRE0019;19;6669D CTS-240  E0;100;non_value;#VALUE!;12'03;non_value;non_value
-23/11/2016;non_value;SI;PRE0003_03;23;0690-ESPECIAL G9;25;non_value;#VALUE!;4'42;non_value;non_value
-24/11/2016;non_value;SI;PRE0039;7;0581 ESPECIAL;25;non_value;#VALUE!;3'35;non_value;non_value
-25/11/2016;non_value;SI;PRE0040;12;6779A CRS-120;25;non_value;#VALUE!;3'01;non_value;non_value
-02/12/2016;non_value;SI;THI0016;3;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
-16/12/2016;non_value;SI;THI0002_01;2;DISPLAY 52MM;460;non_value;#VALUE!;7'67;non_value;non_value
-16/01/2017;non_value;SI;THI0016;4;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
-10/02/2017;non_value;SI;THI0016;5;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
+#REF!;PREP;SI;PRE0001;17;0580 ESPECIAL M-14;25;25;0;4'49;non_value;sï¿½lo pdte. 5 tapas
+#REF!;PREP;SI;PRE0019;18;6669D CTS-240;80;80;0;12'03;non_value;MONTAR Y ENTREGAR JUNTO PRE0026
+#REF!;PREP;SI;PRE0026;13;6369A CRS-240;20;20;0;*;non_value;MONTAR Y ENTREGAR JUNTO PRE0019
+#REF!;non_value;SI;CSE0036;1;PCB VID_01A (VISUALIZADOR);3;3;0;0'09;non_value;PROTOS SUPER URGENTES (ENTREGA Sï¿½BADO)
+24/10/16;PREP;SI;ALB0005;1;PSB_V2.0;12;non_value;#VALUE!;0'44;non_value;non_value
+#REF!;PREP;SI;PRE0004_01;3;0696_H004 ESPECIAL;25;25;0;2'56;non_value;non_value
+#REF!;PREP;SI;PRE0015_01;4;9246_B1 ESPECIAL;25;25;0;0'83;non_value;non_value
+24/10/16;PREP;SI;ALB0007;1;FEB_V2.0+SBD26HD_V2.0;12;non_value;#VALUE!;2'05;non_value;non_value
+24/10/16;PREP;SI;ALB0008;1;ALBA MODILEC_V40;50;non_value;#VALUE!;16;non_value;non_value
+24/10/16;PREP;SI;ALB0009;1;CACB_V3.0;9;non_value;#VALUE!;0'48;non_value;non_value
+24/10/16;PREP;SI;ALB0010;1;CACB_V3.0_LV;3;non_value;#VALUE!;0'13;non_value;non_value
+25/10/16;PREP;SI;BON0002_01;3;RASPBERRY UMBRELLA;150;non_value;#VALUE!;24'46;non_value;non_value
+#REF!;PREP;SI;THI0017;1;RELE IGNCUT_V2;150;150;0;2'5;non_value;non_value
+25/10/16;PREP;SI;MON0012_01;2;DAE-20050-CTL02-ON_V2;20;non_value;#VALUE!;1'97;non_value;non_value
+27/10/16;PREP;SI;ADV0007_01;3;3.3.86 Monitor;35;non_value;#VALUE!;0'78;non_value;non_value
+1/11/16;PREP;SI;SOR0154;7;PLACA DISPARO NORA +;60;non_value;#VALUE!;29'94;non_value;non_value
+1/11/16;PREP;SI;SOR0157;7;PLACA SIMMER NORA;20;non_value;#VALUE!;6'54;non_value;non_value
+1/11/16;PREP;NO;SOR0153_01;8;BLOQUE DISPARO NORA PLUS +;20;non_value;#VALUE!;non_value;non_value;LLEVA INCLUIDO SOR0154+SOR0157+BLACKPLANE
+2/11/16;non_value;SI;SOR0007;17;316014 CONTROL GENERAL SKINLIGHT;25;non_value;#VALUE!;9'78;non_value;non_value
+2/11/16;non_value;SI;SOR0101;19;315573 Distribucion potencia PHOTOCARE;24;non_value;#VALUE!;2'46;non_value;non_value
+3/11/16;non_value;SI;PRE0003_03;22;0690-ESPECIAL G9;25;non_value;#VALUE!;4'42;non_value;non_value
+4/11/16;PREP;SI;CES0007_01;7;SC420_CI410;69;non_value;#VALUE!;5'37;non_value;CONTROL RIGUROSO DE TODOS LOS PROCESOS DE MONTAJE MANUAL Y DE SU VERIFICACION
+4/11/16;non_value;SI;THI0016;2;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
+4/11/16;non_value;NO;GUT0005;1;RA-12 REV.00;5;non_value;#VALUE!;non_value;non_value;non_value
+4/11/16;non_value;SI;SOR0049;17;315810 PLACA CABEZAL BIPOLAR 30mm;35;non_value;#VALUE!;non_value;non_value;non_value
+7/11/16;PREP;SI;PRE0056_01;4;0720.3_E2 ESPECIAL;500;300;200;115'97;non_value;1r PARCIAL (150u aprox.) 06/10 VERIFICADAS OK                                                                                                2n PARCIAL (150u aprox.) 13/10  VERIFICADAS OK                                                                                                  3r PARCIAL (200u aprox.) 07/11
+7/11/16;PREP;SI;PRE0057;5;9286.3_2 ESPECIAL;500;300;200;36'53;non_value;1r PARCIAL (150u aprox.) 06/10. 30/09/16 CPA> VERIFICADAS OK                                                                                              2n PARCIAL (150u aprox.) 13/10 05/10/16 CPA> VERIFICADAS OK                                                                                                    3r PARCIAL (200u aprox.) 07/11
+7/11/16;PREP;SI;PRE0052_01;3;0748 ESPECIAL CTS-240 PLANO C VER. 4;205;100;105;21'24;non_value;PARCIAL 100u 20/10/2016
+8/11/16;non_value;SI;ALB0006;1;FMC_ADC_ISO_V3.0;12;non_value;#VALUE!;0'41;non_value;non_value
+10/11/16;non_value;SI;PRE0051;3;6670D CTS-240 E0;25;non_value;#VALUE!;non_value;non_value;non_value
+11/11/16;non_value;SI;PRE0040;11;6779A CRS-120;25;non_value;#VALUE!;3'01;non_value;non_value
+11/11/16;non_value;SI;PRE0029;6;0700.2 PLANO E VERSION 3 ESPECIAL;105;non_value;#VALUE!;10'59;non_value;non_value
+18/11/16;non_value;SI;PRE0035;22;6780A CRS-120;50;non_value;#VALUE!;6'18;non_value;non_value
+21/11/16;non_value;SI;CES0003_01;16;SC102_CI401;200;non_value;#VALUE!;16'94;non_value;non_value
+22/11/16;non_value;SI;PRE0019;19;6669D CTS-240  E0;100;non_value;#VALUE!;12'03;non_value;non_value
+22/11/16;non_value;SI;ADV0013_01;2;3.3.63 Firefly-A2_v1.2;252;non_value;#VALUE!;non_value;non_value;SOLO DESPANELAR
+23/11/16;non_value;SI;PRE0003_03;23;0690-ESPECIAL G9;25;non_value;#VALUE!;4'42;non_value;non_value
+24/11/16;non_value;SI;PRE0039;7;0581 ESPECIAL;25;non_value;#VALUE!;3'35;non_value;non_value
+25/11/16;non_value;NO;LEA0006;2;Switch;50;non_value;#VALUE!;non_value;non_value;non_value
+25/11/16;non_value;SI;LEA0005;2;MainBoard;50;non_value;#VALUE!;non_value;non_value;non_value
+25/11/16;non_value;SI;PRE0040;12;6779A CRS-120;25;non_value;#VALUE!;3'01;non_value;non_value
+2/12/16;non_value;SI;THI0016;3;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
+16/12/16;non_value;SI;THI0002_01;2;DISPLAY 52MM;460;non_value;#VALUE!;7'67;non_value;non_value
+16/12/16;non_value;SI;PRE0002;9;0665 ESPECIAL H8;25;non_value;#VALUE!;non_value;non_value;non_value
+16/12/16;non_value;SI;PRE0016;9;9212 ESPECIAL ;25;non_value;#VALUE!;non_value;non_value;non_value
+16/12/16;non_value;SI;PRE0047;3;6353A CRS-240;25;non_value;#VALUE!;non_value;non_value;non_value
+16/12/16;non_value;SI;PRE0009;16;6657D CTS-240 E0;70;non_value;#VALUE!;non_value;non_value;non_value
+23/12/16;non_value;SI;PRE0031;9;6879D CTS-120;25;non_value;#VALUE!;non_value;non_value;non_value
+30/12/16;non_value;SI;PRE0030;11;6770A CRS-120 G1;30;non_value;#VALUE!;non_value;non_value;non_value
+16/1/17;non_value;SI;THI0016;4;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value
+10/2/17;non_value;SI;THI0016;5;POWERLATCH V1.1;250;non_value;#VALUE!;5'9;non_value;non_value

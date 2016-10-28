@@ -1,15 +1,12 @@
 package onaur.controller;
 
-import java.io.FileReader;
-import java.util.Iterator;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.opencsv.CSVReader;
 
 import onaur.dao.ArticulosDAO;
 import onaur.dao.ComprasDAO;
@@ -69,7 +66,7 @@ public class WebseviceRestController {
 				articulosEntity = new ArticuloEntity();
 				articulosEntity.setReferencia(articulo.getReferencia());
 				articulosEntity.setArticulo(articulo.getArticulo());
-//				articulosDao.save(articulosEntity);
+				articulosDao.save(articulosEntity);
 			}
 			for(Compras compras : comprasList){
 				Lotes lotes = new Lotes(compras.getReferencia(), compras.getLote());
@@ -101,6 +98,7 @@ public class WebseviceRestController {
 						thtEntity.setProgramado_tht(compras.getProgramado_conv());
 						thtEntity.setObservaciones(compras.getObservaciones());
 						thtEntity.setSemana(" "); //TODO
+//						System.out.println("********* " + thtEntity.toString());
 						thtDao.save(thtEntity);
 						
 						comprasEntity.setCantidad_servida(tht.getServido());
@@ -133,17 +131,35 @@ public class WebseviceRestController {
 						smdEntity.setTiempo(compras.getTiempo_smd());
 						smdEntity.setProgramado_smd(compras.getProgramado_smd());
 						smdEntity.setObservaciones(smd.getObservaciones());
+//						System.out.println("********* " + smd.toString());
+//						System.out.println("********* " + smdEntity.toString());
 						smdDao.save(smdEntity);
 					}
 				}
-				
 				comprasDao.save(comprasEntity);
-				
 			}
 			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		return "CSV Loaded! " + size ;
+	}
+	
+	@RequestMapping(value="/loadCompras", method = RequestMethod.GET, headers="Accept=application/json")
+	@ResponseBody
+	private List<ComprasEntity> loadCompras(){
+		return comprasDao.findAll();
+	}
+	
+	@RequestMapping(value="/loadSMD", method = RequestMethod.GET, headers="Accept=application/json")
+	@ResponseBody
+	private List<SMDEntity> loadSMD(){
+		return smdDao.findAll();
+	}
+	
+	@RequestMapping(value="/loadTHT", method = RequestMethod.GET, headers="Accept=application/json")
+	@ResponseBody
+	private List<THTEntity> loadTHT(){
+		return thtDao.findAll();
 	}
 }

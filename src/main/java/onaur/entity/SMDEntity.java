@@ -173,5 +173,17 @@ public class SMDEntity {
 	public void setPantalla_estado(String pantalla_estado) {
 		this.pantalla_estado = pantalla_estado;
 	}
+	
+	@Override
+	public String toString() {
+		return "SMDEntity [id=" + id + ", semana=" + semana + ", idLote=" + idLote + ", CAD=" + CAD
+				+ ", estado_material_onaur=" + estado_material_onaur + ", fecha_prev_material_onaur="
+				+ fecha_prev_material_onaur + ", estado_material_cliente=" + estado_material_cliente
+				+ ", fecha_prev_material_cliente=" + fecha_prev_material_cliente + ", estado=" + estado + ", tiempo="
+				+ tiempo + ", programado_smd=" + programado_smd + ", observaciones=" + observaciones + ", pantalla="
+				+ pantalla + ", pantalla_estado=" + pantalla_estado + "]";
+	}
+
+
 
 }

@@ -10,6 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name= "THT")
 public class THTEntity {
+	
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long id;
@@ -159,5 +160,12 @@ public class THTEntity {
 		}
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "THTEntity [id=" + id + ", idLote=" + idLote + ", estado_material_onaur=" + estado_material_onaur
+				+ ", fecha_prev_material_onaur=" + fecha_prev_material_onaur + ", estado_material_cliente="
+				+ estado_material_cliente + ", fecha_prev_material_cliente=" + fecha_prev_material_cliente
+				+ ", estado_material=" + estado_material + ", tiempo=" + tiempo + ", programado_tht=" + programado_tht
+				+ ", observaciones=" + observaciones + ", semana=" + semana + "]";
+	}
 }
