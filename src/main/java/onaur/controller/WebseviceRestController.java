@@ -28,7 +28,6 @@ import onaur.pojo.SMD;
 @RestController
 public class WebseviceRestController {
 
-
 	@Autowired
 	private ArticulosDAO articulosDao;
 	@Autowired
