@@ -10,5 +10,6 @@ public interface ArticulosDAO extends CrudRepository<ArticuloEntity, Long>{
 	
 	public ArticuloEntity findByReferencia(String referencia);
 	public List<ArticuloEntity> findAll();
+	public List<ArticuloEntity> findAllByOrderByReferenciaAsc();
 
 }

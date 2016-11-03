@@ -1,5 +1,6 @@
 package onaur.view;
 
+import java.io.Serializable;
 import java.util.List;
 
 import javax.annotation.PostConstruct;
@@ -11,7 +12,7 @@ import onaur.dao.ComprasDAO;
 import onaur.entity.ComprasEntity;
 
 @Component("compras")
-public class ComprasBean {
+public class ComprasBean implements Serializable{
 
 	@Autowired
 	private ComprasDAO comprasDao;

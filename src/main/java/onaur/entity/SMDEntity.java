@@ -40,25 +40,30 @@ public class SMDEntity {
 	private String pantalla;
 	@Column(name = "pantalla_estado")
 	private String pantalla_estado;
+	@Column(name = "pantalla_numero_pedido")
+	private String pantalla_numero_pedido;
 	
 	public SMDEntity() {}
 	
-	public SMDEntity(Long id, String semana, String id_lote, String cAD, String estado_material_onaur,
-			String fecha_prev_material_onaur, String estado_material_cliente, String estado, String tiempo,
-			String programado_smd, String observaciones, String pantalla, String pantalla_estado) {
+	public SMDEntity(Long id, String semana, String idLote, String cAD, String estado_material_onaur,
+			String fecha_prev_material_onaur, String estado_material_cliente, String fecha_prev_material_cliente,
+			String estado, String tiempo, String programado_smd, String observaciones, String pantalla,
+			String pantalla_estado, String pantalla_numero_pedido) {
 		this.id = id;
 		this.semana = semana;
-		this.idLote = id_lote;
+		this.idLote = idLote;
 		CAD = cAD;
 		this.estado_material_onaur = estado_material_onaur;
 		this.fecha_prev_material_onaur = fecha_prev_material_onaur;
 		this.estado_material_cliente = estado_material_cliente;
+		this.fecha_prev_material_cliente = fecha_prev_material_cliente;
 		this.estado = estado;
 		this.tiempo = tiempo;
 		this.programado_smd = programado_smd;
 		this.observaciones = observaciones;
 		this.pantalla = pantalla;
 		this.pantalla_estado = pantalla_estado;
+		this.pantalla_numero_pedido = pantalla_numero_pedido;
 	}
 
 	public Long getId() {
@@ -113,6 +118,18 @@ public class SMDEntity {
 	public String getPantalla_estado() {
 		return pantalla_estado;
 	}
+
+	public String getPantalla_numero_pedido() {
+		return pantalla_numero_pedido;
+	}
+
+
+
+	public void setPantalla_numero_pedido(String pantalla_numero_pedido) {
+		this.pantalla_numero_pedido = pantalla_numero_pedido;
+	}
+
+
 
 	public void setId(Long id) {
 		this.id = id;
@@ -173,7 +190,7 @@ public class SMDEntity {
 	public void setPantalla_estado(String pantalla_estado) {
 		this.pantalla_estado = pantalla_estado;
 	}
-	
+
 	@Override
 	public String toString() {
 		return "SMDEntity [id=" + id + ", semana=" + semana + ", idLote=" + idLote + ", CAD=" + CAD
@@ -181,9 +198,8 @@ public class SMDEntity {
 				+ fecha_prev_material_onaur + ", estado_material_cliente=" + estado_material_cliente
 				+ ", fecha_prev_material_cliente=" + fecha_prev_material_cliente + ", estado=" + estado + ", tiempo="
 				+ tiempo + ", programado_smd=" + programado_smd + ", observaciones=" + observaciones + ", pantalla="
-				+ pantalla + ", pantalla_estado=" + pantalla_estado + "]";
+				+ pantalla + ", pantalla_estado=" + pantalla_estado + ", pantalla_numero_pedido="
+				+ pantalla_numero_pedido + "]";
 	}
-
-
-
+	
 }
