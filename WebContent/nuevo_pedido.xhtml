@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+</h:head>
+<h:body>
+	<h:outputText value="Onaur Programacion: Nuevo Pedido"
+		style="font-size:24px; font-family: verdana;" />
+	<h:form  id="form">
+	<h:panelGrid columns="1" style="width:700px;" >
+		<h:panelGrid columns="2" cellpadding="2">
+	
+			<p:outputLabel for="articuloRef" value="Articulo: " />
+			<p:selectOneMenu id="articuloRef" value="#{nuevoPedido.articuloReferencia}" style="width:150px">
+				<f:selectItem itemLabel="selecciona articulo" itemValue="" noSelectionOption="true" />
+				<f:selectItems value="#{nuevoPedido.articulosRefMap}" />
+				<p:ajax event="change" update="articuloDesc" listener="#{nuevoPedido.articuloDescriptionChange()}"/>
+			</p:selectOneMenu>
+	
+			<p:outputLabel for="lote" value="Lote: " />
+			<p:inputMask id="lote" value="#{nuevoPedido.lote}"  />
+	
+			<p:outputLabel for="articuloDesc" value="Descripcion: " />
+			<p:inputTextarea id="articuloDesc" value="#{nuevoPedido.articuloDescripcion}" disabled="true" rows="2" cols="50"></p:inputTextarea>
+	
+			<p:outputLabel for="cantidad" value="Cantidad: " />
+			<p:inputText id="cantidad" value="#{nuevoPedido.cantidad}"/>
+	
+			<p:outputLabel for="of" value="OF num.: " />
+			<p:inputText id="of" value="#{nuevoPedido.of}" />
+	
+			<p:outputLabel for="fechaSolicitada" value="Fecha solicitada " />
+			<p:calendar id="fechaSolicitada" value="#{nuevoPedido.fechaSolicitada}" pattern="dd-MM-yyyy" mask="true" />
+	
+			<p:outputLabel for="fechaEstimada" value="Fecha estimada: " />
+			<p:calendar id="fechaEstimada" value="#{nuevoPedido.fechaEstimada}" pattern="dd-MM-yyyy" mask="true" />
+	
+			<p:outputLabel for="pedidoConfirmado" value="Pedido Confirmado: " />
+			<p:inputSwitch id="pedidoConfirmado" value="#{nuevoPedido.pedidoConfirmado}" onLabel="SI" offLabel="NO" />
+		</h:panelGrid>
+		
+		<h:panelGrid>
+			<p:column >
+				<p:tabView orientation="left" style="width:700px;" >
+					<p:tab title="SMD">
+						<h:panelGrid style="width:100%"  cellpadding="5">
+							<p:inputSwitch id="smd" value="#{nuevoPedido.smd}" onLabel="SI" offLabel="NO">
+								<p:ajax event="change" update="panelSMD" />
+							</p:inputSwitch>
+							<h:panelGrid id="panelSMD" columns="2">
+
+								<p:outputLabel for="pantalla" value="Nueva Pantalla Serigrafia: " rendered="#{nuevoPedido.smd}" />
+								<p:inputSwitch id="pantalla" value="#{nuevoPedido.pantalla}" onLabel="SI" offLabel="NO" rendered="#{nuevoPedido.smd}">
+									<p:ajax event="change" update="panelSMDSerigrafia" />
+								</p:inputSwitch>
+
+								<p:outputLabel value=" " rendered="#{nuevoPedido.smd}" />
+								
+								<h:panelGrid id="panelSMDSerigrafia" columns="2">
+									<p:outputLabel for="numPedidoPantalla" value="Num. pedido: " rendered="#{nuevoPedido.pantalla and nuevoPedido.smd}"/>
+									<p:inputText id="numPedidoPantalla" value="#{nuevoPedido.numPedidoPantalla}" rendered="#{nuevoPedido.pantalla and nuevoPedido.smd}"/>
+									
+									<p:outputLabel for="estadoPantalla" value="Estado pantalla: " rendered="#{nuevoPedido.pantalla and nuevoPedido.smd}}"/>
+					            	<p:selectOneMenu id="estadoPantalla" value="#{nuevoPedido.estadoPantalla}" style="width:150px" rendered="#{nuevoPedido.pantalla and nuevoPedido.smd}">
+					            		<f:selectItem itemLabel="No recibida" itemValue="N" noSelectionOption="true" />
+					               		<f:selectItem itemLabel="Recibida" itemValue="R" noSelectionOption="true" />
+					               		<f:selectItem itemLabel="Confirmada" itemValue="C" noSelectionOption="true" />
+					            	</p:selectOneMenu>								
+								</h:panelGrid>	
+								
+								<p:outputLabel for="cad" value="CAD: " rendered="#{nuevoPedido.smd}"/>
+					            <p:selectOneMenu id="cad" value="#{nuevoPedido.cad}" style="width:150px" rendered="#{nuevoPedido.smd}">
+					            	<f:selectItem itemLabel="NO" itemValue="N" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Introducción" itemValue="I" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Modificación" itemValue="M" noSelectionOption="true" />
+					            </p:selectOneMenu>
+								
+								<p:outputLabel for="horasSmd" value="Horas de Montaje: " rendered="#{nuevoPedido.smd}"/>
+								<p:inputText id="horasSmd" value="#{nuevoPedido.horasSmd}" rendered="#{nuevoPedido.smd}"/>
+								
+								<p:outputLabel for="fechaPrevMatOnaurSmd" value="Fecha prev. mat. Onaur: " rendered="#{nuevoPedido.smd}"/>
+								<p:calendar id="fechaPrevMatOnaurSmd" value="#{nuevoPedido.fechaPrevMatOnaurSmd}" pattern="dd-MM-yyyy" mask="true" rendered="#{nuevoPedido.smd}"/>
+								
+								<p:outputLabel for="estadoMaterialOnaurSmd" value="Estado mat. Onaur: " rendered="#{nuevoPedido.smd}"/>
+								  <p:selectOneMenu id="estadoMaterialOnaurSmd" value="#{nuevoPedido.estadoMaterialOnaurSmd}" style="width:150px" rendered="#{nuevoPedido.smd}">
+					                <f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
+					            </p:selectOneMenu>	
+					            
+					            <p:outputLabel for="fechaMatClienteSmd" value="Fecha ultima entrega mat. cliente: " rendered="#{nuevoPedido.smd}"/>
+								<p:calendar id="fechaMatClienteSmd" value="#{nuevoPedido.fechaMatClienteSmd}" pattern="dd-MM-yyyy" mask="true" rendered="#{nuevoPedido.smd}"/>
+								
+								<p:outputLabel for="estadoMaterialClienteSmd" value="Estado mat. Cliente " rendered="#{nuevoPedido.smd}"/>
+								  <p:selectOneMenu id="estadoMaterialClienteSmd" value="#{nuevoPedido.estadoMaterialClienteSmd}" style="width:150px" rendered="#{nuevoPedido.smd}">
+									<f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Recibido parcial" itemValue="RP" noSelectionOption="true" />
+					            </p:selectOneMenu>	
+					            
+					            <p:outputLabel for="estadoMaterialSmd" value="Estado material: " rendered="#{nuevoPedido.smd}"/>
+								  <p:selectOneMenu id="estadoMaterialSmd" value="#{nuevoPedido.estadoMaterialSmd}" style="width:150px" rendered="#{nuevoPedido.smd}">
+									<f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
+					            </p:selectOneMenu>
+					            
+					            <p:outputLabel for="programadoSmd" value="Programado: " rendered="#{nuevoPedido.smd}" />
+								  <p:selectOneMenu id="programadoSmd" value="#{nuevoPedido.programadoSmd}" style="width:150px" rendered="#{nuevoPedido.smd}">
+									<f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Reservado" itemValue="R" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Si" itemValue="S" noSelectionOption="true" />
+					            </p:selectOneMenu>
+					            
+					            <p:outputLabel for="semanaSmd" value="Semana: " rendered="#{nuevoPedido.smd}"/>
+								<p:inputText id="semanaSmd" value="#{nuevoPedido.semanaSmd}" rendered="#{nuevoPedido.smd}"/>
+									
+					            
+					            <p:outputLabel for="observacionesSmd" value="ObsevacionesSMD: " rendered="#{nuevoPedido.smd}"/>
+					            <p:inputTextarea id="observacionesSmd" value="#{nuevopedido.observacionesSmd}" rows="5" cols="21" maxlength="255" rendered="#{nuevoPedido.smd}" ></p:inputTextarea>
+				            </h:panelGrid>
+						</h:panelGrid>
+					</p:tab>
+					
+					<p:tab title="Convencional">
+						<h:panelGrid style="width:100%"  cellpadding="5">
+							<p:inputSwitch id="tht" value="#{nuevoPedido.tht}" onLabel="SI" offLabel="NO">
+								<p:ajax event="change" update="panelTHT" />
+							</p:inputSwitch>
+							<h:panelGrid id="panelTHT" columns="2">
+								<p:outputLabel for="horasTht" value="Horas de Montaje: " rendered="#{nuevoPedido.tht}"/>
+								<p:inputText id="horasTht" value="#{nuevoPedido.horasTht}" rendered="#{nuevoPedido.tht}"/>
+								
+								<p:outputLabel for="fechaPrevMatOnaurTht" value="Fecha prev. mat. Onaur: " rendered="#{nuevoPedido.tht}"/>
+								<p:calendar id="fechaPrevMatOnaurTht" value="#{nuevoPedido.fechaPrevMatOnaurTht}" pattern="dd-MM-yyyy" mask="true" rendered="#{nuevoPedido.tht}"/>
+								
+								<p:outputLabel for="estadoMaterialOnaurTht" value="Estado mat. Onaur: " rendered="#{nuevoPedido.tht}"/>
+								  <p:selectOneMenu id="estadoMaterialOnaurTht" value="#{nuevoPedido.estadoMaterialOnaurTht}" style="width:150px" rendered="#{nuevoPedido.tht}">
+					                <f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
+					            </p:selectOneMenu>	
+					            
+					            <p:outputLabel for="fechaMatClienteTht" value="Fecha ultima entrega mat. cliente: " rendered="#{nuevoPedido.tht}"/>
+								<p:calendar id="fechaMatClienteTht" value="#{nuevoPedido.fechaMatClienteTht}" pattern="dd-MM-yyyy" mask="true" rendered="#{nuevoPedido.tht}"/>
+								
+								<p:outputLabel for="estadoMaterialClienteTht" value="Estado mat. Cliente " rendered="#{nuevoPedido.tht}"/>
+								  <p:selectOneMenu id="estadoMaterialClienteTht" value="#{nuevoPedido.estadoMaterialClienteTht}" style="width:150px" rendered="#{nuevoPedido.tht}">
+									<f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Recibido parcial" itemValue="RP" noSelectionOption="true" />
+					            </p:selectOneMenu>	
+					            
+					            <p:outputLabel for="estadoMaterialTht" value="Estado material: " rendered="#{nuevoPedido.tht}"/>
+								  <p:selectOneMenu id="estadoMaterialTht" value="#{nuevoPedido.estadoMaterialTht}" style="width:150px" rendered="#{nuevoPedido.tht}">
+									<f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
+					            </p:selectOneMenu>
+	
+								<p:outputLabel for="materialPreparadoTht" value="Estado material: " rendered="#{nuevoPedido.tht}"/>
+								  <p:selectOneMenu id="materialPreparadoTht" value="#{nuevoPedido.materialPreparadoTht}" style="width:150px" rendered="#{nuevoPedido.tht}">
+									<f:selectItem itemLabel="No" itemValue="N" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Si" itemValue="S" noSelectionOption="true" />
+					            </p:selectOneMenu>
+					            				            
+					            <p:outputLabel for="programadoTht" value="Programado: " rendered="#{nuevoPedido.tht}" />
+								  <p:selectOneMenu id="programadoTht" value="#{nuevoPedido.programadoTht}" style="width:150px" rendered="#{nuevoPedido.tht}">
+									<f:selectItem itemLabel="Pendiente" itemValue="P" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Reservado" itemValue="R" noSelectionOption="true" />
+					                <f:selectItem itemLabel="Si" itemValue="S" noSelectionOption="true" />
+					            </p:selectOneMenu>
+					            
+					            <p:outputLabel for="semanaTht" value="Semana: " rendered="#{nuevoPedido.tht}"/>
+								<p:inputText id="semanaTht" value="#{nuevoPedido.semanaTht}" rendered="#{nuevoPedido.tht}"/>
+									
+					            
+					            <p:outputLabel for="observacionesTht" value="ObsevacionesSMD: " rendered="#{nuevoPedido.tht}"/>
+					            <p:inputTextarea id="observacionesTht" value="#{nuevopedido.observacionesTht}" rows="5" cols="21"  maxlength="255" rendered="#{nuevoPedido.tht}" ></p:inputTextarea>
+							</h:panelGrid>
+							
+						</h:panelGrid>
+					</p:tab>
+					<p:tab title="Observaciones Generales">
+						<h:panelGrid style="width:100%"  cellpadding="5">
+							<p:outputLabel for="observaciones" value="Obsevaciones: "/>
+							<p:inputTextarea id="observaciones" value="#{nuevopedido.observaciones}" rows="10" cols="60" maxlength="255" counter="display" counterTemplate="{0} characters remaining."></p:inputTextarea>
+							<h:outputText id="display" />
+						</h:panelGrid>
+					</p:tab>
+				</p:tabView>
+			</p:column>
+		</h:panelGrid>
+	</h:panelGrid>
+</h:form>
+
+</h:body>
+</html>

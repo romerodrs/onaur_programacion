@@ -30,7 +30,17 @@ public class ComprasEntity {
     private String cantidad_servida;
     @Column(name = "fecha_servida")
     private String fecha_servida;
+    @Column(name = "confirmado")
+    private String confirmado;
     
+	public String getConfirmado() {
+		return confirmado;
+	}
+
+	public void setConfirmado(String confirmado) {
+		this.confirmado = confirmado;
+	}
+
 	public String getIdLote() {
 		return idLote;
 	}
@@ -44,7 +54,11 @@ public class ComprasEntity {
 	}
 
 	public void setCantidad_servida(String cantidad_servida) {
-		this.cantidad_servida = cantidad_servida;
+		if(cantidad_servida.equals("non_value")){
+			this.cantidad_servida = "0";
+		}else{
+			this.cantidad_servida = cantidad_servida;
+		}
 	}
 
 	public String getFecha_servida() {
@@ -52,13 +66,17 @@ public class ComprasEntity {
 	}
 
 	public void setFecha_servida(String fecha_servida) {
-		this.fecha_servida = fecha_servida;
+		if(fecha_servida.equals("non_value")){
+			this.fecha_servida = " ";
+		}else{
+			this.fecha_servida = fecha_servida;
+		}
 	}
 
 	public ComprasEntity() {}
 	
 	public ComprasEntity(Long id, String fecha_solicitud, String fecha_confirmacion, String oF, String idLote,
-			String cantidad, String observaciones, String cantidad_servida, String fecha_servida) {
+			String cantidad, String observaciones, String cantidad_servida, String fecha_servida, String confirmado) {
 		this.id = id;
 		this.fecha_solicitud = fecha_solicitud;
 		this.fecha_confirmacion = fecha_confirmacion;
@@ -68,6 +86,7 @@ public class ComprasEntity {
 		this.observaciones = observaciones;
 		this.cantidad_servida = cantidad_servida;
 		this.fecha_servida = fecha_servida;
+		this.confirmado = confirmado;
 	}
 
 	public Long getId() {
@@ -137,12 +156,14 @@ public class ComprasEntity {
 			this.observaciones = observaciones;
 		}
 	}
+
 	@Override
 	public String toString() {
 		return "ComprasEntity [id=" + id + ", fecha_solicitud=" + fecha_solicitud + ", fecha_confirmacion="
 				+ fecha_confirmacion + ", OF=" + OF + ", idLote=" + idLote + ", cantidad=" + cantidad
 				+ ", observaciones=" + observaciones + ", cantidad_servida=" + cantidad_servida + ", fecha_servida="
-				+ fecha_servida + "]";
+				+ fecha_servida + ", confirmado=" + confirmado + "]";
 	}
+
     
 }

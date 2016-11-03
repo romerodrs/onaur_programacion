@@ -13,8 +13,11 @@
 	<h:outputText value="Onaur Programacion: Compras" style="font-size:24px; font-family: verdana;" />
 	
 	<p:dataTable var="compraslist" value="#{compras.compraslist}" 
-		paginatorTemplate="{CurrentPageReport}  {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink}"
-		paginator="true" rows="10" style="margin-bottom:20px">
+						rows="10"
+                        paginator="true"
+                        paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+                        rowsPerPageTemplate="5,10,15" 
+                        stickyHeader="true">
 		<p:column headerText="Fecha Solicitud">
 			<h:outputText value="#{compraslist.fecha_solicitud}" />
 		</p:column>
