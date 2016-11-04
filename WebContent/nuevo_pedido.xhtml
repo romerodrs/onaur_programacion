@@ -117,7 +117,7 @@
 					            </p:selectOneMenu>
 					            
 					            <p:outputLabel for="semanaSmd" value="Semana: " rendered="#{nuevoPedido.smd}"/>
-								<p:inputText id="semanaSmd" value="#{nuevoPedido.semanaSmd}" rendered="#{nuevoPedido.smd}"/>
+								<p:inputMask id="semanaSmd" value="#{nuevoPedido.semanaSmd}"  mask="99" rendered="#{nuevoPedido.smd}"/>
 									
 					            
 					            <p:outputLabel for="observacionesSmd" value="ObsevacionesSMD: " rendered="#{nuevoPedido.smd}"/>
@@ -160,7 +160,7 @@
 					                <f:selectItem itemLabel="Listo" itemValue="L" noSelectionOption="true" />
 					            </p:selectOneMenu>
 	
-								<p:outputLabel for="materialPreparadoTht" value="Estado material: " rendered="#{nuevoPedido.tht}"/>
+								<p:outputLabel for="materialPreparadoTht" value="Material Preparado: " rendered="#{nuevoPedido.tht}"/>
 								  <p:selectOneMenu id="materialPreparadoTht" value="#{nuevoPedido.materialPreparadoTht}" style="width:150px" rendered="#{nuevoPedido.tht}">
 									<f:selectItem itemLabel="No" itemValue="N" noSelectionOption="true" />
 					                <f:selectItem itemLabel="Si" itemValue="S" noSelectionOption="true" />
@@ -174,7 +174,7 @@
 					            </p:selectOneMenu>
 					            
 					            <p:outputLabel for="semanaTht" value="Semana: " rendered="#{nuevoPedido.tht}"/>
-								<p:inputText id="semanaTht" value="#{nuevoPedido.semanaTht}" rendered="#{nuevoPedido.tht}"/>
+								<p:inputMask id="semanaTht" value="#{nuevoPedido.semanaTht}" rendered="#{nuevoPedido.tht}" mask="99"/>
 									
 					            
 					            <p:outputLabel for="observacionesTht" value="ObsevacionesSMD: " rendered="#{nuevoPedido.tht}"/>
