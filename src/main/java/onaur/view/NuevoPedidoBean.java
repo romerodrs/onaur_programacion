@@ -1,6 +1,9 @@
 package onaur.view;
 
 import java.io.Serializable;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -27,19 +30,19 @@ public class NuevoPedidoBean implements Serializable{
 		private String articuloDescripcion  = "selecciona primero una descripcion";
 		private String lote;
 		private String cantidad;
-		private String of;
+		private String of = "";
 		private String fechaSolicitada;
 		private String fechaEstimada;
-		private String pedidoConfirmado;
-		private String cantidadServida;
+		private boolean pedidoConfirmado = false;
+		private String cantidadServida = "0";
 		private String fechaServida;
 		// SMD Vars
-		private boolean pantalla;
-		private boolean smd;
-		private String numPedidoPantalla;
+		private boolean smd = false;
+		private boolean pantalla  = false;
+		private String numPedidoPantalla ="";
 		private String estadoPantalla;
 		private String cad;
-		private String horasSmd;
+		private String horasSmd = "0";
 		private String fechaPrevMatOnaurSmd;
 		private String estadoMaterialOnaurSmd;
 		private String fechaMatClienteSmd;
@@ -47,10 +50,10 @@ public class NuevoPedidoBean implements Serializable{
 		private String estadoMaterialSmd;
 		private String programadoSmd;
 		private String semanaSmd;
-		private String observacionesSmd;
+		private String observacionesSmd = "";
 		//THT Vars
-		private boolean tht;
-		private String horasTht;
+		private boolean tht = false;
+		private String horasTht = "0";
 		private String fechaPrevMatOnaurTht;
 		private String estadoMaterialOnaurTht;
 		private String fechaMatClienteTht;
@@ -59,12 +62,18 @@ public class NuevoPedidoBean implements Serializable{
 		private String materialPreparadoTht;
 		private String programadoTht;
 		private String semanaTht;
-		private String observacionesTht;
+		private String observacionesTht = "";
 		//Observaciones
-		private String observaciones;
+		private String observaciones = "";
 		
 		@PostConstruct
 		public void init(){
+
+			//TODO fechaSolicitada (dd-MM-yyyy), semanaTht & semanaSmd 
+			Date date = new Date();
+			DateFormat fechaSolicitada = new SimpleDateFormat("dd-MM-yyyy");
+			this.fechaSolicitada = fechaSolicitada.format(date);
+			
 			articulosMap = new HashMap<String, String>();
 			articulosRefMap = new HashMap<String, String>();
 			articulosList = articulosDAO.findAllByOrderByReferenciaAsc();
@@ -118,7 +127,7 @@ public class NuevoPedidoBean implements Serializable{
 			return fechaEstimada;
 		}
 
-		public String getPedidoConfirmado() {
+		public boolean isPedidoConfirmado() {
 			return pedidoConfirmado;
 		}
 
@@ -356,7 +365,7 @@ public class NuevoPedidoBean implements Serializable{
 			this.fechaEstimada = fechaEstimada;
 		}
 
-		public void setPedidoConfirmado(String pedidoConfirmado) {
+		public void setPedidoConfirmado(boolean pedidoConfirmado) {
 			this.pedidoConfirmado = pedidoConfirmado;
 		}
 
@@ -422,6 +431,12 @@ public class NuevoPedidoBean implements Serializable{
 
 		public void articuloDescriptionChange() {
 			articuloDescripcion = articulosMap.get(articuloReferencia) ;
+		}
+		
+		public void btnCrearPedidoCompras(){
+			System.out.println("new compra");
+			if(smd) System.out.println("new smd");
+			if(tht) System.out.println("new convencional");
 		}
 
 	

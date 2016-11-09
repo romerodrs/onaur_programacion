@@ -8,6 +8,11 @@
 	xmlns:p="http://primefaces.org/ui">
 
 <h:head>
+	<style>
+		.alignRight {
+			text-align: right;
+		}
+	</style>
 </h:head>
 <h:body>
 	<h:outputText value="Onaur Programacion: Nuevo Pedido"
@@ -121,7 +126,7 @@
 									
 					            
 					            <p:outputLabel for="observacionesSmd" value="ObsevacionesSMD: " rendered="#{nuevoPedido.smd}"/>
-					            <p:inputTextarea id="observacionesSmd" value="#{nuevopedido.observacionesSmd}" rows="5" cols="21" maxlength="255" rendered="#{nuevoPedido.smd}" ></p:inputTextarea>
+					            <p:inputTextarea id="observacionesSmd" value="#{nuevoPedido.observacionesSmd}" rows="5" cols="21" maxlength="255" rendered="#{nuevoPedido.smd}" ></p:inputTextarea>
 				            </h:panelGrid>
 						</h:panelGrid>
 					</p:tab>
@@ -178,7 +183,7 @@
 									
 					            
 					            <p:outputLabel for="observacionesTht" value="ObsevacionesSMD: " rendered="#{nuevoPedido.tht}"/>
-					            <p:inputTextarea id="observacionesTht" value="#{nuevopedido.observacionesTht}" rows="5" cols="21"  maxlength="255" rendered="#{nuevoPedido.tht}" ></p:inputTextarea>
+					            <p:inputTextarea id="observacionesTht" value="#{nuevoPedido.observacionesTht}" rows="5" cols="21"  maxlength="255" rendered="#{nuevoPedido.tht}" ></p:inputTextarea>
 							</h:panelGrid>
 							
 						</h:panelGrid>
@@ -186,13 +191,17 @@
 					<p:tab title="Observaciones Generales">
 						<h:panelGrid style="width:100%"  cellpadding="5">
 							<p:outputLabel for="observaciones" value="Obsevaciones: "/>
-							<p:inputTextarea id="observaciones" value="#{nuevopedido.observaciones}" rows="10" cols="60" maxlength="255" counter="display" counterTemplate="{0} characters remaining."></p:inputTextarea>
+							<p:inputTextarea id="observaciones" value="#{nuevoPedido.observaciones}" rows="10" cols="60" maxlength="255" counter="display" counterTemplate="{0} characters remaining."></p:inputTextarea>
 							<h:outputText id="display" />
 						</h:panelGrid>
 					</p:tab>
 				</p:tabView>
 			</p:column>
 		</h:panelGrid>
+		<h:panelGrid style="width:100%;" styleClass="alignRight" >
+			<p:commandButton value="Crear pedido" id="btnCrearPedidoCompras" actionListener="#{nuevoPedido.btnCrearPedidoCompras}"/>
+		</h:panelGrid>
+		
 	</h:panelGrid>
 </h:form>
 
